@@ -1,0 +1,3499 @@
+﻿0 HEAD
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+1 SOUR MYHERITAGE
+2 NAME MyHeritage Family Tree Builder
+2 VERS 5.5.1
+2 _RTLSAVE RTL
+2 CORP MyHeritage.com
+1 DEST MYHERITAGE
+1 DATE 12 SEP 2026
+1 FILE Exported by MyHeritage.com from 02082026 in Stanley Web Site on Sat, 12 Sep 2026
+1 _PROJECT_GUID 6A6FC27697E98385602B48C6E660D14F
+1 _EXPORTED_FROM_SITE_ID 1653336614
+0 @I500001@ INDI
+1 _UPD 28 JUL 2026 11:04:00 GMT -0500 
+1 NAME Adam /Stanley/
+2 GIVN Adam
+2 SURN Stanley
+1 SEX M
+1 BIRT
+2 DATE 2007
+1 RESI
+2 ADDR
+3 ADR1 xmnply11@gmail.com
+1 RESI
+2 EMAIL xmnply11@@gmail.com
+1 FAMC @F500001@
+1 RIN MH:I500001
+1 _UID 66493A34346303122D9CE0FBA67BC94E
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTZjMGIwMDJiMDU3ZGM3YTJkZmMzYjA4MTZkYzJkYWI5NTZmM2MzMzRiMWU0ZGYzMDZkOWE2NTU5MjNhZDE2YWYmZT0xNzg5ODUxNjAw/165/333/6614/000001_73603166cla7yf2cq9a75y_A.jpg
+2 _FILESIZE 74244
+2 _PRIM_CUTOUT Y
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P1
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWZjNDUyYzU0ZDcwNTEyOGJlMTk0ZWY1NzViZTRhZjI2Y2FiMDU4NWMyOTViMzQxMDVhNzNjZDNkYzA4ZDE3ZmImZT0xNzg5ODUxNjAw/165/333/6614/000002_987398aty17h0cd7fa6526_A.jpg
+2 _FILESIZE 74244
+2 TITL Photo798808160402_inner_282-465-503-465-282-734-503-734
+2 _POSITION 44 0 978 1246
+2 _PHOTO_RIN MH:P2
+0 @I500002@ INDI
+1 _UPD 2 AUG 2026 17:27:32 GMT -0500 
+1 NAME Deirdre /Bolton/
+2 GIVN Deirdre
+2 SURN Bolton
+1 SEX F
+1 BIRT
+2 DATE 1966
+1 FAMS @F500001@
+1 FAMC @F500002@
+1 RIN MH:I500002
+1 _UID 66493A42158BD36D0A74345731E86E5D
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTQ5YmQ1NGRlZWRkMWVlMTlmNDUwY2Q4ODZhNDg3ZDBjYzQyNzY0NzQzNDIyNTE0ZmVhZTViNDBjYzMwYTdlNDUmZT0xNzg5ODUxNjAw/165/333/6614/000003_9883736uh2cf5z7f657da2_A.jpg
+2 _FILESIZE 187924
+2 _PRIM_CUTOUT Y
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P3
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTcxOGY3NWM5YmNmMmNlMjNlYmNmODBmZTIxY2YzZjRmNmIxNzQ2NTYwYjYyNzUwZThjODBmMWVkNGUwOWZhZmEmZT0xNzg5ODUxNjAw/165/333/6614/000004_02336625756lf08p5cga6p_A.jpg
+2 _FILESIZE 187923
+2 TITL Screenshot_20260728-110636
+2 _POSITION 0 456 1023 1820
+2 _PHOTO_RIN MH:P4
+0 @I500003@ INDI
+1 _UPD 2 AUG 2026 17:27:21 GMT -0500 
+1 NAME Derek /Stanley/
+2 GIVN Derek
+2 SURN Stanley
+1 SEX M
+1 BIRT
+2 DATE 1962
+1 FAMS @F500001@
+1 RIN MH:I500003
+1 _UID 66493A4982D0EDDFE5A020355B49992D
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTIyY2I5ZmIxYTk4OTIzNTBlM2FhYTQ4MDAwZDlmMDVhN2M5YmU1NzJjNDNhNmE1MzJkZTliODA1Yzk0MTA0MjImZT0xNzg5ODUxNjAw/165/333/6614/000005_585562z6j202faw867c572_A.jpg
+2 _FILESIZE 96871
+2 _PRIM_CUTOUT Y
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P5
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTkyMzI4NjI4ZjY2YzU5MmQxNjA3MmIzMGRkMmZiMzBiY2RhM2QzODUyMmE1NWFmYWFkY2Q0ZTc4ZmQwNjczNjcmZT0xNzg5ODUxNjAw/165/333/6614/000006_935392a8dacl2l5f276f62_A.jpg
+2 _FILESIZE 96870
+2 TITL Screenshot_20260728-110733
+2 _POSITION 9 0 1013 1339
+2 _PHOTO_RIN MH:P6
+0 @I500004@ INDI
+1 _UPD 28 JUL 2026 11:21:10 GMT -0500 
+1 NAME Margaret /Maughan/
+2 GIVN Margaret
+2 SURN Maughan
+2 _MARNM Bolton
+1 SEX F
+1 DEAT Y
+2 DATE 26 FEB 2016
+2 PLAC Dublin
+2 AGE 75-76
+2 CAUS Heart attack
+1 BIRT
+2 DATE 1940
+2 PLAC Castlebar, Mayo, Ireland
+1 FAMS @F500002@
+1 FAMC @F500020@
+1 SOUR @S1@
+2 PAGE https://www.myheritage.com/research/record-20865-9454355/margaret-maughan-in-ireland-births
+2 QUAY 4
+2 DATA
+3 TEXT <p>Margaret Maughan</p><p>Birth: 1940 - Castlebar, Mayo, Ireland</p>Mother's maiden name: Ward
+2 EVEN Record
+3 ROLE 20865:9454355:
+1 RIN MH:I500004
+1 _UID 66493A5699515F8D9F669E27D017D7F2
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTM1M2UzMzcyMTcxZjk2ZjJlMzIxOTRhMmY0YjUxYTcwZTRiMWMwNTMxM2Q2N2Q0MDQ3NTVlMTRiODIzNmFhM2UmZT0xNzg5ODUxNjAw/165/333/6614/000007_769296afa766c3z2p85f8c_A.jpg
+2 _FILESIZE 84450
+2 _PRIM_CUTOUT Y
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P7
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTBjNGFkYzM1Y2RlNGE0ZDc3MDg1Njg2NDU5ZWYzYmE3MjkzZmFlNGY2OTViNmZiMGI4NjU1ZTkyZDk1M2QxNzAmZT0xNzg5ODUxNjAw/165/333/6614/000008_11360556fxq723ap63cn8v_A.jpg
+2 _FILESIZE 84450
+2 TITL new.jpg
+2 _POSITION 88 0 935 1130
+2 _PHOTO_RIN MH:P8
+0 @I500005@ INDI
+1 _UPD 28 JUL 2026 19:08:37 GMT -0500 
+1 NAME Andrew /Bolton/
+2 GIVN Andrew
+2 SURN Bolton
+1 SEX M
+1 DEAT Y
+2 DATE 20 DEC 2020
+2 PLAC County Dublin, Ireland
+2 AGE 84
+2 CAUS Pneumonia
+1 BIRT
+2 DATE JUL 1936
+2 PLAC Dublin
+1 FAMS @F500002@
+1 FAMC @F500006@
+1 SOUR @S1@
+2 QUAY 4
+2 DATA
+3 TEXT Andrew J. Bolton&amp;lt;br&amp;gt;Birth: 1936 - Dublin North, Dublin, Ireland&amp;lt;br&amp;gt;Registration year: Between July 1936 and Sep 1936&amp;lt;br&amp;gt;Registration district: Dublin North&am
+4 CONC p;lt;br&amp;gt;Volume #: 2&amp;lt;br&amp;gt;Page #: 320&amp;lt;br&amp;gt;Mother's maiden name: McCluskey
+2 EVEN Record
+3 ROLE 20865:2306686:
+1 RIN MH:I500005
+1 _UID 66493A5B0EE636257F3F019C836392BB
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWU1ZjRjNWExOTBhYjZlNGEwMzUzNDRjODdjMDcyNDM2NjRjNmVlMTc1MTU2MTM1YTE3MWJiNDAxOGRjODk5NWEmZT0xNzg5ODUxNjAw/165/333/6614/000009_656985pf8c72355f6oa673_A.jpg
+2 _FILESIZE 90617
+2 _PRIM_CUTOUT Y
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P9
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTgwMzdjNzZiNmIzOWE5ZDNkYWRhODBhMzk3YmNkZjIzNzE3MjM2MTcxMjc0OGM0NjhlMDI1YWQ2MDE1YTI5M2UmZT0xNzg5ODUxNjAw/165/333/6614/000010_564747c76f6fh73wai26a5_A.jpg
+2 _FILESIZE 90619
+2 TITL Screenshot_20260728-111357
+2 _POSITION 102 0 920 1092
+2 _PHOTO_RIN MH:P10
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTAyNWYyZmQ0YTFiMTExN2NiM2EwZTNiY2UzN2VjOWYyY2JjM2E5OWZjNmJmNDczZWVkZDAyZjI4NDliOTkzMWQmZT0xNzg5ODUxNjAw/165/333/6614/000011_962077v727544faa7676cp_A.jpg
+2 _FILESIZE 2627798
+2 TITL Family Infographic - Andrew Bolton
+2 _POSITION 0 0 4800 3905
+2 _PHOTO_RIN MH:P11
+0 @I500008@ INDI
+1 _UPD 28 JUL 2026 11:14:33 GMT -0500 
+1 NAME Mia /Stanley/
+2 GIVN Mia
+2 SURN Stanley
+1 SEX F
+1 BIRT
+2 DATE 11 MAY 2007
+2 PLAC Dublin
+1 FAMC @F500001@
+1 RIN MH:I500008
+1 _UID 66493AD05414DE788E7B06D660F64DEC
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTNjNjdmMzYwMjA5Zjk5ZDViMDdhOTkzYTEwYWJlN2JjMWQzZTczZmEzNTZlOGYxOWFhMmM4YTE3ZWExMDQyNmUmZT0xNzg5ODUxNjAw/165/333/6614/000012_749148bmfr6f49a5c2677c_A.jpg
+2 _FILESIZE 115072
+2 _PRIM_CUTOUT Y
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P12
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTdmNzU0NzE3YTY4YzI5MmQ2ZDc3OTY1NGJkMWMzNTMwNGZmNjNhMGU2MTE3MmUzZmYwNDA4MGI0MjJkMzM4MDMmZT0xNzg5ODUxNjAw/165/333/6614/000013_967271afb2tz777f625ac6_A.jpg
+2 _FILESIZE 115072
+2 TITL Screenshot_20260728-111422
+2 _POSITION 0 298 1023 1662
+2 _PHOTO_RIN MH:P13
+0 @I500009@ INDI
+1 _UPD 28 JUL 2026 16:21:11 GMT -0500 
+1 NAME Siobhan /Bolton/
+2 GIVN Siobhan
+2 SURN Bolton
+1 SEX F
+1 BIRT
+2 DATE ABT 25 MAY 1971
+2 PLAC Dublin
+1 FAMS @F500005@
+1 FAMC @F500002@
+1 RIN MH:I500009
+1 _UID 6A675A09BC92438A201A90B2ADA516E3
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWRlY2ZmMTU2NzNmZjJjMzhlMDg4ZmQzNmYwNGI0NGE4MWFiMDJiMWQ3MTE5MzUwOWEwZjgzZTA4OWZlMGU3YzEmZT0xNzg5ODUxNjAw/165/333/6614/000014_162125f67fbk25c75xa76c_A.jpg
+2 _FILESIZE 87020
+2 _PRIM_CUTOUT Y
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P14
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWZhYzFhZGJlNGJkZDY0YTQ4ODM4NDZjZmVlYjQ5ZjEwZGE2MDI1Y2Y3MTk0MTFlNGY5M2MyYmRmYzI3OWY0YWQmZT0xNzg5ODUxNjAw/165/333/6614/000015_469452v87f66a2ff7cb566_A.jpg
+2 _FILESIZE 86994
+2 TITL new.jpg
+2 _POSITION 150 0 917 1023
+2 _PHOTO_RIN MH:P15
+0 @I500010@ INDI
+1 _UPD 28 JUL 2026 11:15:47 GMT -0500 
+1 NAME Andrew /Bolton/
+2 GIVN Andrew
+2 SURN Bolton
+1 SEX M
+1 FAMS @F500004@
+1 FAMC @F500002@
+1 RIN MH:I500010
+1 _UID 6A675A16D017A7ADC69F4EE13D97B3C2
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTVmMDRkNmI2NTZlMmQ3NDBlODJkYjBhM2Y1NzM3NTZjMTVmN2MxMjBjYTBkZDU4NGYyNzk0MTMyYmY5OGU0ZjYmZT0xNzg5ODUxNjAw/165/333/6614/000016_3330052c6fkd3e6c7ba257_A.jpg
+2 _FILESIZE 117944
+2 _PRIM_CUTOUT Y
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P16
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWNjM2I2ODcxMzkyZGVmZTE4NWM1MzU5NTBjNTY2MDIwMzkwNGVhYzg3MjA2ZmVhMWRkYTQwNzM1ZmIxNjBjYmQmZT0xNzg5ODUxNjAw/165/333/6614/000017_6899737672a6t5sbtfc5dd_A.jpg
+2 _FILESIZE 117950
+2 TITL new.jpg
+2 _POSITION 101 0 922 1095
+2 _PHOTO_RIN MH:P17
+0 @I500011@ INDI
+1 _UPD 27 JUL 2026 14:16:16 GMT -0500 
+1 NAME Charlotte /Bolton/
+2 GIVN Charlotte
+2 SURN Bolton
+1 SEX F
+1 FAMC @F500002@
+1 RIN MH:I500011
+1 _UID 6A675A203D98F205AE45D8A045FBF189
+0 @I500015@ INDI
+1 _UPD 28 JUL 2026 16:23:43 GMT -0500 
+1 NAME Liz /Lynch/
+2 GIVN Liz
+2 SURN Lynch
+1 SEX F
+1 FAMS @F500004@
+1 RIN MH:I500015
+1 _UID 6A675A493BE3FF5F595BEF71F31C8DED
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWE5MzY5YjMxM2NhMjk1MTVlOGI3MWU2YzYwYmRmMDM1ZGZkYWYwZTQwODAwZjY2ODcxNWUxZWQyNzM4ZjFjOTcmZT0xNzg5ODUxNjAw/165/333/6614/000018_9944236p57caxt67cmp28f_A.jpg
+2 _FILESIZE 63446
+2 _PRIM_CUTOUT Y
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P18
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTZjODJhNzk1MmEyYTQ2MGE0NWMxZWQyZWU3MTgyMjYzMDE1OWRjYjQxOWE0NTdmMDIzMTUwNjlkZGQ0MTcxMTgmZT0xNzg5ODUxNjAw/165/333/6614/000019_643826f7ln5ac52661l7oc_A.jpg
+2 _FILESIZE 63447
+2 TITL new.jpg
+2 _POSITION 13 0 1010 1330
+2 _PHOTO_RIN MH:P19
+0 @I500016@ INDI
+1 _UPD 28 JUL 2026 16:21:29 GMT -0500 
+1 NAME Michael /Gallagher/
+2 GIVN Michael
+2 SURN Gallagher
+1 SEX M
+1 FAMS @F500005@
+1 RIN MH:I500016
+1 _UID 6A675A533686DF774A21D22A2E37F493
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTg5MDZkMTdkMTI1YTY3MGIxMzZiOWE1NjAzZmI5YjQzZDJjM2IyN2JjZWY3ZmMxZWViZmRiOWU4MzgzMTQ1OWEmZT0xNzg5ODUxNjAw/165/333/6614/000020_0248327254akc6ff6pgq7c_A.jpg
+2 _FILESIZE 101611
+2 _PRIM_CUTOUT Y
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P20
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTk2NDBiYjIwMDgxY2NkZDc1NzczZmI0YTBiM2ViNWYwMmUyMTRjZGE1MjkyNmFiYjg0N2ZhMWI5Nzc0ZGRjZmEmZT0xNzg5ODUxNjAw/165/333/6614/000021_465741o6aw2567pchc7sf5_A.jpg
+2 _FILESIZE 101611
+2 TITL new.jpg
+2 _POSITION 44 0 979 1247
+2 _PHOTO_RIN MH:P21
+0 @I500017@ INDI
+1 _UPD 28 JUL 2026 16:24:20 GMT -0500 
+1 NAME Kian /Bolton/
+2 GIVN Kian
+2 SURN Bolton
+1 SEX M
+1 BIRT
+2 DATE AUG 2005
+2 PLAC Dublin
+1 FAMC @F500004@
+1 RIN MH:I500017
+1 _UID 6A675A6BDF4EA5818EF547BAA7FD9165
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWE0YWEyNmIwZTBkYmRlN2I3ODU3ODQyNjY2YWY2YjQyNzIxYTJhMjIyODExMTM2ODhkNGZlOTZmODFiMDk0YWMmZT0xNzg5ODUxNjAw/165/333/6614/000022_537673c7ch67276rf56ae6_A.jpg
+2 _FILESIZE 87052
+2 _PRIM_CUTOUT Y
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P22
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPThjM2RkYzUxMWUyZWM3N2MwYjljY2E3NTE3ZDIwNDZkMmYyYTk4NWM4MWY3Zjc1MGI4ZjQ3MmFiYjQ5NjEyYmYmZT0xNzg5ODUxNjAw/165/333/6614/000023_1082224u6bgcf57v67a6c2_A.jpg
+2 _FILESIZE 87052
+2 TITL new.jpg
+2 _POSITION 122 0 901 1039
+2 _PHOTO_RIN MH:P23
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTNhNDAxMzhjMzZkYjI2ZjU3ODY4OGNhY2Y4MDZiY2NlZDgyZmYwOGYzNmY2ZDVlNjRhNTVjNmM3ZjZiZTI0MTMmZT0xNzg5ODUxNjAw/165/333/6614/000024_3424017d5v7u6ansfc6c82_A.jpg
+2 _FILESIZE 115027
+2 TITL new.jpg
+2 _POSITION 0 0 1024 1336
+2 _PHOTO_RIN MH:P24
+0 @I500018@ INDI
+1 _UPD 28 JUL 2026 16:23:29 GMT -0500 
+1 NAME Maria /Gallagher/
+2 GIVN Maria
+2 SURN Gallagher
+1 SEX F
+1 BIRT
+2 DATE OCT 2006
+2 PLAC Belfast
+1 FAMC @F500005@
+1 RIN MH:I500018
+1 _UID 6A675A772409AC38986225C1EC166D2B
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWIzZmU2ZjU0MTVlYTNjNzEwMTgxZDIxZjc3NGMxZWYzYTNmZDk0YjhmZGE2NWI4ODM0MmI4MGY0NzQ4NTJmM2MmZT0xNzg5ODUxNjAw/165/333/6614/000025_073858xaf26567gtc179cw_A.jpg
+2 _FILESIZE 123441
+2 _PRIM_CUTOUT Y
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P25
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWE5Y2Q3ZTZhZDhmYTg2ODhlZmNlYTU2M2UzMWVkNjUxNTA2NGE0ZDg1YTNhMzE0MjgzZjYwOGMwNDllZTFiNWQmZT0xNzg5ODUxNjAw/165/333/6614/000026_1026946f7536b7tdca2foh_A.jpg
+2 _FILESIZE 123441
+2 TITL new.jpg
+2 _POSITION 0 206 1023 1570
+2 _PHOTO_RIN MH:P26
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWNmZjZjNTA1NjlhYzdlOWI0NGEzMjY5MjFlMzEyMDFlY2UxOWNhNDFjNTJmMzAzZTI5ZjAwYzFkMDI0NjU4OWYmZT0xNzg5ODUxNjAw/165/333/6614/000027_095278k6h8afc6d5r73227_A.jpg
+2 _FILESIZE 119355
+2 TITL new.jpg
+2 _POSITION 0 0 1024 1589
+2 _PHOTO_RIN MH:P27
+0 @I500020@ INDI
+1 _UPD 27 JUL 2026 16:22:42 GMT -0500 
+1 NAME Thomas /Bolton/
+2 GIVN Thomas
+2 SURN Bolton
+1 SEX M
+1 BIRT
+2 DATE 26 MAR 1896
+2 PLAC County Dublin, Ireland
+1 CENS
+2 DATE 31 MAR 1901
+2 PLAC Vicar Street, Merchants Quay, Dublin, Ireland
+2 AGE 5
+1 RELI Roman Catholic
+1 DEAT Y
+2 DATE 1967
+2 AGE 70-71
+1 OCCU Tobacco Factory Worker
+2 DATE 1911
+1 OCCU Soldier
+2 DATE 1917
+1 OCCU Porter
+2 DATE 1934
+1 FAMS @F500006@
+1 FAMS @F500023@
+1 FAMC @F500012@
+1 SOUR @S4@
+2 QUAY 4
+2 DATA
+3 TEXT Thomas Bolton&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Circa 1896 - County Dublin, Ireland&amp;lt;br&amp;gt;Residence: Mar 31 1901 - Vicar Street, Merchants Quay, Dublin, Ireland&amp;lt;b
+4 CONC r&amp;gt;Religion: Roman Catholic&amp;lt;br&amp;gt;Age: 5&amp;lt;br&amp;gt;Marital status: Not Married&amp;lt;br&amp;gt;Father: Joseph Bolton&amp;lt;br&amp;gt;Mother: Bridget Bolton&amp;lt;br&amp;gt;I
+4 CONC mage: &lt;a&gt;Click here to view&lt;/a&gt;&amp;lt;br&amp;gt;&amp;lt;a id='household'&amp;gt;&amp;lt;/a&amp;gt;Household&amp;lt;br&amp;gt;Relation to head; Name; Age; Suggested alternatives&amp;lt;br&
+4 CONC amp;gt;Head; &amp;lt;a href="https://www.myheritage.com/research/record-10199-2101635/joseph-bolton-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Joseph Bolton&amp;lt;/a&amp;gt;; 38
+4 CONC ; &amp;lt;br&amp;gt;Wife; &amp;lt;a href="https://www.myheritage.com/research/record-10199-2101637/bridget-bolton-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Bridget Bolton&amp;lt
+4 CONC ;/a&amp;gt;; 37; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10199-2101636/thomas-bolton-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Thomas B
+4 CONC olton&amp;lt;/a&amp;gt;; 5;
+2 EVEN Record
+3 ROLE 10199:2101636-:1ec681ff160ebee3ccfde90d62ddb8be
+1 SOUR @S2@
+2 QUAY 4
+2 DATA
+3 TEXT Thomas Bolton&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1894 - Dublin, Ireland&amp;lt;br&amp;gt;Marriage: Spouse: Bridget McCluskey - Between Oct 1934 and Dec 1934 - Dublin North, County D
+4 CONC ublin, Ireland&amp;lt;br&amp;gt;Wife: &amp;lt;a&amp;gt;Bridget Bolton (born McCluskey)&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;Daughter: &amp;lt;a&amp;gt;Female Bolton&amp;lt;/a&amp;gt;
+2 EVEN Record
+3 ROLE 40001:25437225:
+1 RIN MH:I500020
+1 _UID 6A675A847FF905D100E00DDEE4D1EE2B
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTIyMjc3MDgzMzYzZDBkMzE0OGIzMTVlM2ZhZTQzZDkxZWMxYzBhNWY0ODQzYzU1OTE3OGU3NTAwMmE0YzNkMTQmZT0xNzg5ODUxNjAw/165/333/6614/500018_816645439ga6f8ai7060pk_A.pdf
+2 _FILESIZE 426142
+2 TITL 1901Census
+2 _PHOTO_RIN MH:P500018
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWQxZmYzZTRhM2JiYWExMGNmMzhkNjhhOTEyN2E5ODZkZTcwYmExNDQ1OWVkZTFlYTZlZmU4MjJjNWY5ZWYzNGUmZT0xNzg5ODUxNjAw/165/333/6614/500019_527639szaof5a9068b743c_A.pdf
+2 _FILESIZE 2469959
+2 TITL 1926Census
+2 _PHOTO_RIN MH:P500019
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWUyOTc1MjA2MjRhMmNjODRjNjExODAwYzE0NzgxM2NjMGVmMDkwYjBlZjMyYjZiOGMxYWZlY2YyZWU1NmI0YjYmZT0xNzg5ODUxNjAw/165/333/6614/500020_563475h40wag89c86a7f44_A.pdf
+2 _FILESIZE 239056
+2 TITL BirthCert1906
+2 _PHOTO_RIN MH:P500020
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTE1MmYzYjFjNDc5OTU4N2M3MjEzNzVlNDZmOTU3MTM0ZjlkYzc4MWNhZmE4YWViNzg2YWZhNzNjN2NiZWQ3ZmImZT0xNzg5ODUxNjAw/165/333/6614/500021_823880p617407flqfa49a8_A.pdf
+2 _FILESIZE 214833
+2 TITL ChristinaMarriageCert1917
+2 _PHOTO_RIN MH:P500021
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTAzMjI2YjExYzk1NmI5NWY1MmE1NmIwNGRiZjUxYmIyY2YxYWVjNmU3M2ZmN2E4N2RmYWY2NDAzNjkzZTBlNDYmZT0xNzg5ODUxNjAw/165/333/6614/500043_0900144a6045i4197a0x0g_A.pdf
+2 _FILESIZE 214833
+2 TITL thomasBoltonFirstMarriage
+2 _PHOTO_RIN MH:P500043
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWE3N2E2YWVmZmU0OGY3NWY5NzQxZTk2MmYxYTg2N2VhYjlkYzU5Mzg5NjVkOTEyMzFkNGU2OTI5MWUwYzlmMjYmZT0xNzg5ODUxNjAw/165/333/6614/500187_23230776652aodhtfdp9my_A.pdf
+2 _FILESIZE 274071
+2 TITL BridgetMarriageCert1934
+2 _PHOTO_RIN MH:P500187
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWYyNzYwZWUzMTA1YzgyODY3MGY2OTk3ZjA3Y2QwMmI5OWEwMDY5Zjg2NWE1NzRjMDRkMzYzODcxY2ExMDQwMTUmZT0xNzg5ODUxNjAw/165/333/6614/500194_1388599ay07f9e815608o5_A.pdf
+2 _FILESIZE 511639
+2 TITL 1911Census
+2 _PHOTO_RIN MH:P500194
+0 @I500022@ INDI
+1 _UPD 28 JUL 2026 11:17:46 GMT -0500 
+1 NAME Thomas /Bolton/
+2 GIVN Thomas
+2 SURN Bolton
+1 SEX M
+1 BIRT
+2 DATE 1943
+2 PLAC Dublin
+1 FAMC @F500006@
+1 SOUR @S1@
+2 QUAY 4
+2 DATA
+3 TEXT Thomas J. Bolton&amp;lt;br&amp;gt;Birth: 1943 - Dublin North, Dublin, Ireland&amp;lt;br&amp;gt;Registration year: Between Jan 1943 and Mar 1943&amp;lt;br&amp;gt;Registration district: Dublin North&amp
+4 CONC ;lt;br&amp;gt;Volume #: 2&amp;lt;br&amp;gt;Page #: 292&amp;lt;br&amp;gt;Mother's maiden name: McCluskey
+2 EVEN Record
+3 ROLE 20865:6771028:
+1 RIN MH:I500022
+1 _UID 6A67602817E4D626C1CA107673291B18
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTZjZmIyNWQyZjlmYWUxZTYxOWM2YjA4YmE2NTA4MWZiNmQzNDFkNjIyOTE4N2M5ODExMzQyMmQwNDYxNmEwMTImZT0xNzg5ODUxNjAw/165/333/6614/000028_058024d5f2a7ecc60j796d_A.jpg
+2 _FILESIZE 105032
+2 _PRIM_CUTOUT Y
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P28
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTY0MmEyOTg2MTJlZTE5ZDA5YTk3ZGI2ZmE4YjNmMjMwMDZlZDBlYTUzMzQwMzUxZWYwYTFjMTBiZTc1YzY1ZWImZT0xNzg5ODUxNjAw/165/333/6614/000029_903566f5r7682i6cakfdh7_A.jpg
+2 _FILESIZE 105032
+2 TITL new.jpg
+2 _POSITION 0 199 1023 1563
+2 _PHOTO_RIN MH:P29
+0 @I500044@ INDI
+1 _UPD 27 JUL 2026 18:56:32 GMT -0500 
+1 NAME Bridget /Walsh/
+2 GIVN Bridget
+2 SURN Walsh
+2 _MARNM Bolton
+1 SEX F
+1 DEAT Y
+2 DATE 1 MAR 1916
+2 AGE About 51-52
+2 CAUS Illness
+1 BIRT
+2 DATE ABT 1864
+2 PLAC County Dublin, Ireland
+1 CENS
+2 DATE 31 MAR 1901
+2 PLAC Vicar Street, Merchants Quay, Dublin, Ireland
+2 AGE About 36-37
+1 RELI Roman Catholic
+1 FAMS @F500012@
+1 FAMC @F500017@
+1 SOUR @S4@
+2 QUAY 4
+2 DATA
+3 TEXT Bridget Bolton&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Circa 1864 - County Dublin, Ireland&amp;lt;br&amp;gt;Residence: Mar 31 1901 - Vicar Street, Merchants Quay, Dublin, Ireland&amp;l
+4 CONC t;br&amp;gt;Religion: Roman Catholic&amp;lt;br&amp;gt;Age: 37&amp;lt;br&amp;gt;Marital status: Married&amp;lt;br&amp;gt;Husband: Joseph Bolton&amp;lt;br&amp;gt;Son: Thomas Bolton&amp;lt;br&amp;gt;Imag
+4 CONC e: &amp;lt;a&amp;gt;Click here to view&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;a id='household'&amp;gt;&amp;lt;/a&amp;gt;Household&amp;lt;br&amp;gt;Relation to head; Name; Age; Suggested alternativ
+4 CONC es&amp;lt;br&amp;gt;Head; &amp;lt;a href="https://www.myheritage.com/research/record-10199-2101635/joseph-bolton-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Joseph Bolton&amp;lt;/
+4 CONC a&amp;gt;; 38; &amp;lt;br&amp;gt;Wife; &amp;lt;a href="https://www.myheritage.com/research/record-10199-2101637/bridget-bolton-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Bridget 
+4 CONC Bolton&amp;lt;/a&amp;gt;; 37; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10199-2101636/thomas-bolton-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&am
+4 CONC p;gt;Thomas Bolton&amp;lt;/a&amp;gt;; 5;
+2 EVEN Record
+3 ROLE 10199:2101637:1ec681ff160ebee3ccfde90d62ddb8be
+1 RIN MH:I500044
+1 _UID 6A67778E9B3904B7E2A1FA2E7DA8AE8C
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTkzNGNkNTdkMTUxMjkwODQ5Yzc4YWMxNzZmYTMzMDMxMWZjM2ViYjVmZThlM2RjMGE5MzliYjY0YzEwODUzNTQmZT0xNzg5ODUxNjAw/165/333/6614/500026_727675064ef3929h7cad1q_A.pdf
+2 _FILESIZE 426142
+2 TITL 1901Census
+2 _PHOTO_RIN MH:P500026
+0 @I500045@ INDI
+1 _UPD 8 SEP 2026 04:33:32 GMT -0500 
+1 NAME Joseph /Bolton/
+2 GIVN Joseph
+2 SURN Bolton
+1 SEX M
+1 DEAT Y
+2 AGE About 70-71
+1 BIRT
+2 DATE ABT 1863
+2 PLAC County Dublin, Ireland
+1 CENS
+2 DATE 31 MAR 1901
+2 PLAC Vicar Street, Merchants Quay, Dublin, Ireland
+2 AGE About 37-38
+1 OCCU General Labourer
+1 RELI Roman Catholic
+1 CENS
+2 DATE 1881
+2 PLAC Hampshire, England
+2 AGE About 17-18
+1 OCCU Private  45th  Regt
+1 FAMS @F500012@
+1 FAMC @F500016@
+1 SOUR @S4@
+2 QUAY 4
+2 DATA
+3 TEXT Joseph Bolton&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Circa 1863 - County Dublin, Ireland&amp;lt;br&amp;gt;Residence: Mar 31 1901 - Vicar Street, Merchants Quay, Dublin, Ireland&amp;lt;b
+4 CONC r&amp;gt;Religion: Roman Catholic&amp;lt;br&amp;gt;Occupation: General Labourer&amp;lt;br&amp;gt;Age: 38&amp;lt;br&amp;gt;Marital status: Married&amp;lt;br&amp;gt;Wife: Bridget Bolton&amp;lt;br&amp;gt
+4 CONC ;Son: Thomas Bolton&amp;lt;br&amp;gt;Image: &lt;a&gt;Click here to view&lt;/a&gt;&amp;lt;br&amp;gt;&amp;lt;a id='household'&amp;gt;&amp;lt;/a&amp;gt;Household&amp;lt;br&amp;gt;Relation to head; Name; 
+4 CONC Age; Suggested alternatives&amp;lt;br&amp;gt;Head; &amp;lt;a href="https://www.myheritage.com/research/record-10199-2101635/joseph-bolton-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;
+4 CONC gt;Joseph Bolton&amp;lt;/a&amp;gt;; 38; &amp;lt;br&amp;gt;Wife; &amp;lt;a href="https://www.myheritage.com/research/record-10199-2101637/bridget-bolton-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFE
+4 CONC ED2QZMJA"&amp;gt;Bridget Bolton&amp;lt;/a&amp;gt;; 37; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10199-2101636/thomas-bolton-in-1901-ireland-census?s=OYYV65PLE4
+4 CONC DTKKONO75PUFEED2QZMJA"&amp;gt;Thomas Bolton&amp;lt;/a&amp;gt;; 5;
+2 EVEN Record
+3 ROLE 10199:2101635-:1ec681ff160ebee3ccfde90d62ddb8be
+1 SOUR @S5@
+2 QUAY 4
+2 DATA
+3 TEXT <p>Joseph Bolton&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Circa 1863 - Ireland&amp;lt;br&amp;gt;Residence: 1881 - Hampshire, England&amp;lt;br&amp;gt;Age: 18&amp;lt;br&amp;gt;Marital stat
+4 CONC us: Single&amp;lt;br&amp;gt;Occupation: Private  45th  Regt&amp;lt;br&amp;gt;Census: </p><p>	Registration districtFarnboroughSeriesRG11Page112</p><p>	CountyHampshirePiece1252Line12</p><p>	CountryEngla
+4 CONC ndRegistrar's districtHartley WintneyImage10</p><p>	Date1881Enumerated byRobert W Wilson</p>&amp;lt;br&amp;gt;&amp;lt;a id='household'&amp;gt;&amp;lt;/a&amp;gt;Household&amp;lt;br&amp;gt;Relation to h
+4 CONC ead; Name; Age; Suggested alternatives&amp;lt;br&amp;gt;Head; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904542/ambrose-hill-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75P
+4 CONC UFEED2QZMJA"&amp;gt;Ambrose Hill&amp;lt;/a&amp;gt;; 53; &amp;lt;br&amp;gt;Wife; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904543/lydia-hill-in-1881-england-wales-census?s=OYYV
+4 CONC 65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Lydia Hill&amp;lt;/a&amp;gt;; 53; &amp;lt;br&amp;gt;Niece; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904544/eliza-a-robertson-in-1881-engla
+4 CONC nd-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Eliza A Robertson&amp;lt;/a&amp;gt;; 15; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904545
+4 CONC /john-lydon-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;John Lydon&amp;lt;/a&amp;gt;; 23; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/rec
+4 CONC ord-10154-33904546/thos-mccaig-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Thos McCaig&amp;lt;/a&amp;gt;; 25; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myherit
+4 CONC age.com/research/record-10154-33904547/george-stagg-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;George Stagg&amp;lt;/a&amp;gt;; 19; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a hre
+4 CONC f="https://www.myheritage.com/research/record-10154-33904548/george-sullivan-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;George Sullivan&amp;lt;/a&amp;gt;; 20; &amp;lt;br&am
+4 CONC p;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904549/peter-gartland-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Peter Gartland&amp;lt;/a&
+4 CONC amp;gt;; 25; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904550/fredk-mills-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Fr
+4 CONC edk Mills&amp;lt;/a&amp;gt;; 25; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904551/george-slack-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PU
+4 CONC FEED2QZMJA"&amp;gt;George Slack&amp;lt;/a&amp;gt;; 23; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904552/thos-lees-in-1881-england-wales-census?s=OY
+4 CONC YV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Thos Lees&amp;lt;/a&amp;gt;; 25; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904553/jas-brown-in-1881-england-w
+4 CONC ales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Jas Brown&amp;lt;/a&amp;gt;; 21; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904554/wm-gaved-in
+4 CONC -1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Wm Gaved&amp;lt;/a&amp;gt;; 23; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-339045
+4 CONC 55/ricd-moore-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Ricd Moore&amp;lt;/a&amp;gt;; 24; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/r
+4 CONC ecord-10154-33904556/walter-hewson-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Walter Hewson&amp;lt;/a&amp;gt;; 26; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.m
+4 CONC yheritage.com/research/record-10154-33904557/joseph-sutton-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Joseph Sutton&amp;lt;/a&amp;gt;; 19; &amp;lt;br&amp;gt;Prisoner; &amp;
+4 CONC lt;a href="https://www.myheritage.com/research/record-10154-33904558/george-cox-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;George Cox&amp;lt;/a&amp;gt;; 25; &amp;lt;br&amp;
+4 CONC gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904559/thos-denyer-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Thos Denyer&amp;lt;/a&amp;gt;;
+4 CONC  21; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904560/john-judge-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;John Judge&
+4 CONC amp;lt;/a&amp;gt;; 22; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904561/george-webster-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZM
+4 CONC JA"&amp;gt;George Webster&amp;lt;/a&amp;gt;; 26; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904562/george-mansel-in-1881-england-wales-census?s=OYYV
+4 CONC 65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;George Mansel&amp;lt;/a&amp;gt;; 19; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904563/w-g-griffinl-in-1881-engl
+4 CONC and-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;W G Griffinl&amp;lt;/a&amp;gt;; 18; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904564/den
+4 CONC is-horan-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Denis Horan&amp;lt;/a&amp;gt;; 27; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/recor
+4 CONC d-10154-33904565/john-murphy-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;John Murphy&amp;lt;/a&amp;gt;; 25; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritag
+4 CONC e.com/research/record-10154-33904566/john-hayes-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;John Hayes&amp;lt;/a&amp;gt;; 20; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="htt
+4 CONC ps://www.myheritage.com/research/record-10154-33904567/john-ocallaghan-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;John O'Callaghan&amp;lt;/a&amp;gt;; 21; &amp;lt;br&amp;gt;
+4 CONC Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904568/stephen-holland-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Stephen Holland&amp;lt;/a&amp
+4 CONC ;gt;; 21; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904569/george-grimes-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Geo
+4 CONC rge Grimes&amp;lt;/a&amp;gt;; 19; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904570/john-walsh-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUF
+4 CONC EED2QZMJA"&amp;gt;John Walsh&amp;lt;/a&amp;gt;; 18; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904571/thos-madden-in-1881-england-wales-census?s=OYY
+4 CONC V65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Thos Madden&amp;lt;/a&amp;gt;; 26; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904572/lewis-d-conway-in-1881-eng
+4 CONC land-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Lewis D Conway&amp;lt;/a&amp;gt;; 25; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904573/
+4 CONC wm-gascoigne-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Wm Gascoigne&amp;lt;/a&amp;gt;; 18; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/
+4 CONC record-10154-33904574/alfd-hook-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Alfd Hook&amp;lt;/a&amp;gt;; 30; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myherita
+4 CONC ge.com/research/record-10154-33904575/john-harker-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;John Harker&amp;lt;/a&amp;gt;; 35; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="
+4 CONC https://www.myheritage.com/research/record-10154-33904576/saml-wealdon-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Saml Wealdon&amp;lt;/a&amp;gt;; 38; &amp;lt;br&amp;gt;Pris
+4 CONC oner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904577/richd-collins-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Richd Collins&amp;lt;/a&amp;gt;; 19
+4 CONC ; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904578/banl-harding-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Banl Harding
+4 CONC &amp;lt;/a&amp;gt;; 18; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904579/john-spillane-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZM
+4 CONC JA"&amp;gt;John Spillane&amp;lt;/a&amp;gt;; 30; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904580/ricd-dunbabbin-in-1881-england-wales-census?s=OYYV
+4 CONC 65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Ricd Dunbabbin&amp;lt;/a&amp;gt;; 19; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904581/joseph-bolton-in-1881-en
+4 CONC gland-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Joseph Bolton&amp;lt;/a&amp;gt;; 18; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904582/
+4 CONC anthony-burke-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Anthony Burke&amp;lt;/a&amp;gt;; 20; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/researc
+4 CONC h/record-10154-33904583/henry-hagan-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Henry Hagan&amp;lt;/a&amp;gt;; 20; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.my
+4 CONC heritage.com/research/record-10154-33904584/thos-mcgrary-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Thos McGrary&amp;lt;/a&amp;gt;; 23; &amp;lt;br&amp;gt;Prisoner; &amp;lt;
+4 CONC a href="https://www.myheritage.com/research/record-10154-33904585/thos-hughes-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Thos Hughes&amp;lt;/a&amp;gt;; 20; &amp;lt;br&amp;g
+4 CONC t;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904586/thos-burke-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Thos Burke&amp;lt;/a&amp;gt;; 21
+4 CONC ; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904587/george-blake-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;George Blake
+4 CONC &amp;lt;/a&amp;gt;; 20; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904588/john-doyle-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"
+4 CONC &amp;gt;John Doyle&amp;lt;/a&amp;gt;; 27; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904589/alex-brown-in-1881-england-wales-census?s=OYYV65PLE4DTKK
+4 CONC ONO75PUFEED2QZMJA"&amp;gt;Alex Brown&amp;lt;/a&amp;gt;; 25; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904590/john-barber-in-1881-england-wales-cens
+4 CONC us?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;John Barber&amp;lt;/a&amp;gt;; 21; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904591/john-pooley-in-188
+4 CONC 1-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;John Pooley&amp;lt;/a&amp;gt;; 24; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-3390459
+4 CONC 2/levi-sheriff-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Levi Sheriff&amp;lt;/a&amp;gt;; 21; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/researc
+4 CONC h/record-10154-33904593/thos-lownder-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Thos Lownder&amp;lt;/a&amp;gt;; 23; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.
+4 CONC myheritage.com/research/record-10154-33904594/geo-cunningham-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Geo Cunningham&amp;lt;/a&amp;gt;; 21; &amp;lt;br&amp;gt;Prisoner; &a
+4 CONC mp;lt;a href="https://www.myheritage.com/research/record-10154-33904595/micl-mccormack-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Micl McCormack&amp;lt;/a&amp;gt;; 24; &amp
+4 CONC ;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904596/michl-collins-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Michl Collins&amp
+4 CONC ;lt;/a&amp;gt;; 22; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904597/jas-obrien-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp
+4 CONC ;gt;Jas O'Brien&amp;lt;/a&amp;gt;; 19; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904598/stephen-foley-in-1881-england-wales-census?s=OYYV65PLE4DTKK
+4 CONC ONO75PUFEED2QZMJA"&amp;gt;Stephen Foley&amp;lt;/a&amp;gt;; 18; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904599/edward-geffrey-in-1881-england-wale
+4 CONC s-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Edward Geffrey&amp;lt;/a&amp;gt;; 19; &amp;lt;br&amp;gt;Prisoner; &amp;lt;a href="https://www.myheritage.com/research/record-10154-33904600/john-duff
+4 CONC ey-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;John Duffey&amp;lt;/a&amp;gt;; 21; &amp;lt;br&amp;gt;Wight Watch; &amp;lt;a href="https://www.myheritage.com/research/record-1
+4 CONC 0154-33904601/wm-robinson-in-1881-england-wales-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Wm Robinson&amp;lt;/a&amp;gt;; 37;
+2 EVEN Record
+3 ROLE 10154:33904581:0031405930a3b0e2f28ca0b9d95f2580
+1 SOUR @S6@
+2 QUAY 4
+2 DATA
+3 TEXT Joseph Bolton&amp;lt;br&amp;gt;Birth: Circa 1863&amp;lt;br&amp;gt;Death: 1934 - Thomastown, Kilkenny, Ireland&amp;lt;br&amp;gt;Age at death: 71&amp;lt;br&amp;gt;Registration year: Between Apr 1934 and
+4 CONC  June 1934&amp;lt;br&amp;gt;Registration district: Thomastown&amp;lt;br&amp;gt;Digital folder #: 004202046&amp;lt;br&amp;gt;Volume #: 4&amp;lt;br&amp;gt;File #: 101739&amp;lt;br&amp;gt;Page #: 393&amp
+4 CONC ;lt;br&amp;gt;Image #: 00350
+2 EVEN Record
+3 ROLE 20866:448664:
+1 RIN MH:I500045
+1 _UID 6A677796C57B0998E0ED9C8B80B04001
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWFmZWFjY2U0ZDhkNWMzNzI2MjE2NTM1MWU2MTBhNWI0OWRmMWY5MDc2MmU3M2Q3MDNkZTMzYjFlYTNiNjJhMzcmZT0xNzg5ODUxNjAw/165/333/6614/500048_2249209a6ato04xl71g30o_A.pdf
+2 _FILESIZE 426142
+2 TITL 1901Census
+2 _PHOTO_RIN MH:P500048
+0 @I500052@ INDI
+1 _UPD 3 AUG 2026 09:12:45 GMT -0500 
+1 NAME Andrew /Bolton/
+2 GIVN Andrew
+2 SURN Bolton
+1 SEX M
+1 DEAT Y
+2 DATE BEF 11 JUN 1893
+1 CENS
+2 PLAC Lower Coombe, Ireland
+1 FAMS @F500016@
+1 SOUR @S19@
+2 PAGE https://www.myheritage.com/research/record-12032-4678359/andrew-bolton-in-ireland-names-stories-in-newspapers-from-oldnewscom
+2 QUAY 4
+2 DATA
+3 TEXT <p>Andrew Bolton</p><p>Text: ...Ormond-quay, en</p><p>1st March, 1856.</p><p>James Treaton, late of George's-place, Blackrock, county</p><p>Dublin, vintner.</p><p>To be heard on the 5th March.</p><p>A
+4 CONC ndrew Bolton, late of Lower Coombe, silk dresser.</p><p>To be heard on the 8th March.</p><p>Robert Prendergast, late of the Northumberland...</p><p>Occupation: Silk dresser</p><p>Newspaper: Freeman's 
+4 CONC Journal</p><p>Publication: Feb 16 1856 - Dublin, Dublin, Ireland</p>Summary: List of insolvent debtors and their occupations to be heard at court in March 1856.
+2 EVEN Record
+3 ROLE 12032:4678359:4fc29c60dc43a8ac64447ba0e9d41abc
+1 RIN MH:I500052
+1 _UID 6A679B8E62F80F55E102FAE4D64F1C17
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTFiNTE1ZTk1ZDQzMWY2YjBkMDA5YTE5NmNhN2E0YzY5NTZjZDU4MGJjNzZkODRkODFlYWEyMmNkODUyNDI5YjImZT0xNzg5ODUxNjAw/165/333/6614/500050_778763f4a5611a5pdu7dx0_A.jpg
+2 _FILESIZE 1234001
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500049
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500050
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTAzN2I0NjJkMTNkMjQxNjQ5MGNiOGUzNmIzYTQ1YjlmNThmNmIxZTQ3YTUwNGNiMWQ5NzljM2JmMzk2YjdkMmYmZT0xNzg5ODUxNjAw/165/333/6614/500049_81077471adc46t0op68a5v_A.jpg
+2 _FILESIZE 1233985
+2 TITL AndrewBolton22Coombe1815
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _PHOTO_RIN MH:P500049
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWI2NDBhNzBkMDUwNTBkMGY4ZDZkNzBkNzIwM2VjMWVjZmQ2MWJkNjM2NTMyNjUwMDMyNWUyMzk2NThkMzU1Y2YmZT0xNzg5ODUxNjAw/165/333/6614/500051_342908a8das764ef1wuft0_A.jpg
+2 _FILESIZE 1494575
+2 TITL Job
+2 _PHOTO_RIN MH:P500051
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTRlOWQzN2VkZjkwMjU0MWRlZGEwNGFjMzYxZWI5ZDgyNmY3ZjRmNDcxOTQzNjljMzg3MDBlZTRmN2JmOTM4Y2ImZT0xNzg5ODUxNjAw/165/333/6614/500052_658011460af31ma886b07t_A.jpg
+2 _FILESIZE 307005
+2 TITL 1840PoliticalSubscription
+2 _PHOTO_RIN MH:P500052
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWM0ODM4YjZhMjJiNmVkY2JmMTIyNjgwZTNkNTgxYTdhOTI0M2I3NDFkODgwMmUzNWFlZDMyYjM4NTNiOTdkNmUmZT0xNzg5ODUxNjAw/165/333/6614/500053_421505a0cf1nq6m04eka78_A.jpg
+2 _FILESIZE 1698668
+2 TITL 1850Residence
+2 _PHOTO_RIN MH:P500053
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWUwMWYzYWMxNGIxY2YyNWU0NjM2OGNkMmFjYjU2MWUyYTUwN2VkYTU5Y2Q1OGVmMjJiMTNhNTk3NjIzMDgwNTkmZT0xNzg5ODUxNjAw/165/333/6614/500054_8008987a0o68911nqmfa4k_A.jpg
+2 _FILESIZE 247655
+2 TITL andrewBoltonCourt
+2 _PHOTO_RIN MH:P500054
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTk0YzkxNDQzZGRmNzlhYmY0ODhhNWMxZjZjYTJmNmI1NTQxODM4N2E3NjRhYWFiNzI0YTRmNjIwY2JhYWU1YjEmZT0xNzg5ODUxNjAw/165/333/6614/500055_265125df416av6a10xvz87_A.jpg
+2 _FILESIZE 26008
+2 TITL ApprenticeToJohnBerry
+2 _PHOTO_RIN MH:P500055
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWVkZjU5ZTNkMjdiMWUwZmM5NWEyZmM0NDc2MGY1MWRiYmU1YTk3Njk3NTU1NzU2OWM5MTE0OWNhYzcyNThlMDYmZT0xNzg5ODUxNjAw/165/333/6614/500056_045298ha4608g5f32a1uy7_A.jpg
+2 _FILESIZE 1288747
+2 TITL ConfirmationOfAddress
+2 _PHOTO_RIN MH:P500056
+0 @I500053@ INDI
+1 _UPD 27 JUL 2026 18:56:32 GMT -0500 
+1 NAME John /Walsh/
+2 GIVN John
+2 SURN Walsh
+1 SEX M
+1 DEAT Y
+2 DATE BEF 11 JUN 1893
+1 FAMS @F500017@
+1 RIN MH:I500053
+1 _UID 6A679BD0BFC3A56F5C89A23A2B5BF4CD
+0 @I500054@ INDI
+1 _UPD 27 JUL 2026 19:05:09 GMT -0500 
+1 NAME Rebecca /Brien/
+2 GIVN Rebecca
+2 SURN Brien
+2 _MARNM Walsh
+1 SEX F
+1 DEAT Y
+1 FAMS @F500017@
+1 RIN MH:I500054
+1 _UID 6A679DD53FB5738E79482FD6B88DC6BF
+0 @I500064@ INDI
+1 _UPD 28 JUL 2026 11:52:47 GMT -0500 
+1 NAME Ellen /Ward/
+2 GIVN Ellen
+2 SURN Ward
+2 _MARNM Maughan
+1 SEX F
+1 DEAT Y
+2 DATE 22 JAN 1940
+2 PLAC Castlebar, Mayo, Ireland
+2 NOTE Childbirth Postpartum
+1 BIRT
+2 DATE BET 1903 AND 1904
+2 PLAC County Galway, Ireland
+1 OCCU Scholar
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Cappataggle, Killallaghtan, Galway, Ireland
+1 RELI R Catholic
+1 FAMS @F500020@
+1 FAMC @F500021@
+1 SOUR @S7@
+2 PAGE https://www.myheritage.com/research/record-10198-380045/ellen-ward-in-1911-ireland-census
+2 QUAY 4
+2 DATA
+3 TEXT <p>Ellen Ward</p><p>Birth: Circa 1904 - County Galway, Ireland</p><p>Residence: Apr 2 1911 - Cappataggle, Killallaghtan, Galway, Ireland</p><p>Father: Lawrence Ward</p><p>Mother: Margret Ward</p>Sibli
+4 CONC ngs: Patrick Ward, John Ward, Charles Ward, Lawrence Ward, Mary Ward, Michael Ward
+2 EVEN Record
+3 ROLE 10198:380045:78dbbdeb9912be41c07fcb0833393943
+1 SOUR @S6@
+2 PAGE https://www.myheritage.com/research/record-20866-3918558/ellen-maughan-in-ireland-deaths
+2 QUAY 4
+2 DATA
+3 TEXT <p>Ellen Maughan</p><p>Birth: Circa 1904</p>Death: 1940 - Castlebar, Mayo, Ireland
+2 EVEN Record
+3 ROLE 20866:3918558:
+1 RIN MH:I500064
+1 _UID 6A688296BC4144BFFAA755C987F41A48
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTVkZWJiNmEwODkwYWM5NzIzMmIyYjBiNDViNWE0OWY4NTRkNzE5OWM5YzljMjkwMWNiNmZkZGEwOThmZGM0OGQmZT0xNzg5ODUxNjAw/165/333/6614/500138_296353kx8d760jea77ijdx_A.pdf
+2 _FILESIZE 156116
+2 TITL DeathCert1940
+2 _PHOTO_RIN MH:P500138
+0 @I500065@ INDI
+1 _UPD 3 AUG 2026 09:16:55 GMT -0500 
+1 NAME Lawrence /Ward/
+2 GIVN Lawrence
+2 SURN Ward
+1 SEX M
+1 BIRT
+2 DATE 1863
+2 PLAC Ballinasloe,,County Galway,Ireland
+1 DEAT Y
+2 DATE 9 FEB 1929
+2 PLAC Ballinasloe,,County Galway,Ireland
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Cappataggle, Killallaghtan, Galway, Ireland
+1 OCCU Tin Smith
+1 RELI R Catholic
+1 FAMS @F500021@
+1 FAMC @F500035@
+1 SOUR @S7@
+2 PAGE https://www.myheritage.com/research/record-10198-380037/lawrence-ward-in-1911-ireland-census
+2 QUAY 4
+2 DATA
+3 TEXT <p>Lawrence Ward</p><p>Birth: Circa 1863 - County Galway, Ireland</p><p>Residence: Apr 2 1911 - Cappataggle, Killallaghtan, Galway, Ireland</p><p>Wife: Margret Ward</p>Children: Patrick Ward, John War
+4 CONC d, Charles Ward, Lawrence Ward, Mary Ward, Michael Ward, Ellen Ward
+2 EVEN Record
+3 ROLE 10198:380037:78dbbdeb9912be41c07fcb0833393943
+1 SOUR @S500002@
+2 PAGE Larry the old king Ward
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added by confirming a Smart Match
+2 EVEN Smart Matching
+3 ROLE 1500052
+1 RIN MH:I500065
+1 _UID 6A6889FDEF89F707334B38DA5B3EB476
+0 @I500066@ INDI
+1 _UPD 3 AUG 2026 09:27:56 GMT -0500 
+1 NAME Margret //
+2 GIVN Margret
+2 _MARNM Ward
+1 SEX F
+1 BIRT
+2 DATE BET 1862 AND 1863
+2 PLAC County Galway, Ireland
+1 DEAT Y
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Cappataggle, Killallaghtan, Galway, Ireland
+1 RELI R Catholic
+1 FAMS @F500021@
+1 SOUR @S7@
+2 PAGE https://www.myheritage.com/research/record-10198-380038/margret-ward-in-1911-ireland-census
+2 QUAY 4
+2 DATA
+3 TEXT <p>Margret Ward</p><p>Birth: Circa 1863 - County Galway, Ireland</p><p>Residence: Apr 2 1911 - Cappataggle, Killallaghtan, Galway, Ireland</p><p>Husband: Lawrence Ward</p>Children: Patrick Ward, John 
+4 CONC Ward, Charles Ward, Lawrence Ward, Mary Ward, Michael Ward, Ellen Ward
+2 EVEN Record
+3 ROLE 10198:380038:78dbbdeb9912be41c07fcb0833393943
+1 RIN MH:I500066
+1 _UID 6A6889FE3C0DB709334B38DA5B3EB476
+0 @I500067@ INDI
+1 _UPD 28 JUL 2026 11:52:49 GMT -0500 
+1 NAME Patrick /Ward/
+2 GIVN Patrick
+2 SURN Ward
+1 SEX M
+1 BIRT
+2 DATE BET 1885 AND 1886
+2 PLAC County Galway, Ireland
+1 DEAT Y
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Cappataggle, Killallaghtan, Galway, Ireland
+1 OCCU Tin Smith
+1 RELI R Catholic
+1 FAMC @F500021@
+1 SOUR @S7@
+2 PAGE https://www.myheritage.com/research/record-10198-380039/patrick-ward-in-1911-ireland-census
+2 QUAY 4
+2 DATA
+3 TEXT <p>Patrick Ward</p><p>Birth: Circa 1886 - County Galway, Ireland</p><p>Residence: Apr 2 1911 - Cappataggle, Killallaghtan, Galway, Ireland</p><p>Father: Lawrence Ward</p><p>Mother: Margret Ward</p>Sib
+4 CONC lings: John Ward, Charles Ward, Lawrence Ward, Mary Ward, Michael Ward, Ellen Ward
+2 EVEN Record
+3 ROLE 10198:380039:78dbbdeb9912be41c07fcb0833393943
+1 RIN MH:I500067
+1 _UID 6A6889FE6CFF170A334B38DA5B3EB476
+0 @I500068@ INDI
+1 _UPD 28 JUL 2026 11:52:49 GMT -0500 
+1 NAME John /Ward/
+2 GIVN John
+2 SURN Ward
+1 SEX M
+1 BIRT
+2 DATE BET 1889 AND 1890
+2 PLAC County Galway, Ireland
+1 DEAT Y
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Cappataggle, Killallaghtan, Galway, Ireland
+1 OCCU Tin Smith
+1 RELI R Catholic
+1 FAMC @F500021@
+1 SOUR @S7@
+2 PAGE https://www.myheritage.com/research/record-10198-380040/john-ward-in-1911-ireland-census
+2 QUAY 4
+2 DATA
+3 TEXT <p>John Ward</p><p>Birth: Circa 1890 - County Galway, Ireland</p><p>Residence: Apr 2 1911 - Cappataggle, Killallaghtan, Galway, Ireland</p><p>Father: Lawrence Ward</p><p>Mother: Margret Ward</p>Siblin
+4 CONC gs: Patrick Ward, Charles Ward, Lawrence Ward, Mary Ward, Michael Ward, Ellen Ward
+2 EVEN Record
+3 ROLE 10198:380040:78dbbdeb9912be41c07fcb0833393943
+1 RIN MH:I500068
+1 _UID 6A6889FE9C2EC70B334B38DA5B3EB476
+0 @I500069@ INDI
+1 _UPD 28 JUL 2026 11:52:49 GMT -0500 
+1 NAME Charles /Ward/
+2 GIVN Charles
+2 SURN Ward
+1 SEX M
+1 BIRT
+2 DATE BET 1891 AND 1892
+2 PLAC County Galway, Ireland
+1 DEAT Y
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Cappataggle, Killallaghtan, Galway, Ireland
+1 OCCU Tin Smith
+1 RELI R Catholic
+1 FAMC @F500021@
+1 SOUR @S7@
+2 PAGE https://www.myheritage.com/research/record-10198-380041/charles-ward-in-1911-ireland-census
+2 QUAY 4
+2 DATA
+3 TEXT <p>Charles Ward</p><p>Birth: Circa 1892 - County Galway, Ireland</p><p>Residence: Apr 2 1911 - Cappataggle, Killallaghtan, Galway, Ireland</p><p>Father: Lawrence Ward</p><p>Mother: Margret Ward</p>Sib
+4 CONC lings: Patrick Ward, John Ward, Lawrence Ward, Mary Ward, Michael Ward, Ellen Ward
+2 EVEN Record
+3 ROLE 10198:380041:78dbbdeb9912be41c07fcb0833393943
+1 RIN MH:I500069
+1 _UID 6A6889FECA6BF70C334B38DA5B3EB476
+0 @I500070@ INDI
+1 _UPD 28 JUL 2026 11:52:50 GMT -0500 
+1 NAME Lawrence /Ward/
+2 GIVN Lawrence
+2 SURN Ward
+1 SEX M
+1 BIRT
+2 DATE BET 1895 AND 1896
+2 PLAC County Galway, Ireland
+1 DEAT Y
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Cappataggle, Killallaghtan, Galway, Ireland
+1 OCCU Tin Smith
+1 RELI R Catholic
+1 FAMC @F500021@
+1 SOUR @S7@
+2 PAGE https://www.myheritage.com/research/record-10198-380042/lawrence-ward-in-1911-ireland-census
+2 QUAY 4
+2 DATA
+3 TEXT <p>Lawrence Ward</p><p>Birth: Circa 1896 - County Galway, Ireland</p><p>Residence: Apr 2 1911 - Cappataggle, Killallaghtan, Galway, Ireland</p><p>Father: Lawrence Ward</p><p>Mother: Margret Ward</p>Si
+4 CONC blings: Patrick Ward, John Ward, Charles Ward, Mary Ward, Michael Ward, Ellen Ward
+2 EVEN Record
+3 ROLE 10198:380042:78dbbdeb9912be41c07fcb0833393943
+1 RIN MH:I500070
+1 _UID 6A6889FF05AB370D334B38DA5B3EB476
+0 @I500071@ INDI
+1 _UPD 28 JUL 2026 11:52:50 GMT -0500 
+1 NAME Mary /Ward/
+2 GIVN Mary
+2 SURN Ward
+1 SEX F
+1 BIRT
+2 DATE BET 1896 AND 1897
+2 PLAC County Galway, Ireland
+1 DEAT Y
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Cappataggle, Killallaghtan, Galway, Ireland
+1 OCCU Scholar
+1 RELI R Catholic
+1 FAMC @F500021@
+1 SOUR @S7@
+2 PAGE https://www.myheritage.com/research/record-10198-380043/mary-ward-in-1911-ireland-census
+2 QUAY 4
+2 DATA
+3 TEXT <p>Mary Ward</p><p>Birth: Circa 1897 - County Galway, Ireland</p><p>Residence: Apr 2 1911 - Cappataggle, Killallaghtan, Galway, Ireland</p><p>Father: Lawrence Ward</p><p>Mother: Margret Ward</p>Siblin
+4 CONC gs: Patrick Ward, John Ward, Charles Ward, Lawrence Ward, Michael Ward, Ellen Ward
+2 EVEN Record
+3 ROLE 10198:380043:78dbbdeb9912be41c07fcb0833393943
+1 RIN MH:I500071
+1 _UID 6A6889FF35FA270E334B38DA5B3EB476
+0 @I500072@ INDI
+1 _UPD 28 JUL 2026 11:52:51 GMT -0500 
+1 NAME Michael /Ward/
+2 GIVN Michael
+2 SURN Ward
+1 SEX M
+1 BIRT
+2 DATE BET 1897 AND 1898
+2 PLAC County Galway, Ireland
+1 DEAT Y
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Cappataggle, Killallaghtan, Galway, Ireland
+1 OCCU Scholar
+1 RELI R Catholic
+1 FAMC @F500021@
+1 SOUR @S7@
+2 PAGE https://www.myheritage.com/research/record-10198-380044/michael-ward-in-1911-ireland-census
+2 QUAY 4
+2 DATA
+3 TEXT <p>Michael Ward</p><p>Birth: Circa 1898 - County Galway, Ireland</p><p>Residence: Apr 2 1911 - Cappataggle, Killallaghtan, Galway, Ireland</p><p>Father: Lawrence Ward</p><p>Mother: Margret Ward</p>Sib
+4 CONC lings: Patrick Ward, John Ward, Charles Ward, Lawrence Ward, Mary Ward, Ellen Ward
+2 EVEN Record
+3 ROLE 10198:380044:78dbbdeb9912be41c07fcb0833393943
+1 RIN MH:I500072
+1 _UID 6A6889FF6571870F334B38DA5B3EB476
+0 @I500073@ INDI
+1 _UPD 3 AUG 2026 15:24:11 GMT -0500 
+1 NAME John /Maughan/
+2 GIVN John
+2 SURN Maughan
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE 27 MAY 1900
+2 PLAC Union Workhouse, Glenamaddy, Co. Galway, Ireland
+1 FAMS @F500020@
+1 FAMC @F500040@
+1 SOUR @S2@
+2 QUAY 4
+2 DATA
+3 TEXT John Maughan&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Wife: &lt;a&gt;Mary Maughan (born Noone)&lt;/a&gt;&amp;lt;br&amp;gt;Daughter: &lt;a&gt;Margaret E or Margie Galli (born Maughan)&lt;/a&gt;
+2 EVEN Record
+3 ROLE 40001:1408496168:
+1 RIN MH:I500073
+1 _UID 6A689CA67433E16E7C60FAA38386D93A
+0 @I500076@ INDI
+1 _UPD 28 JUL 2026 14:25:35 GMT -0500 
+1 NAME Christina /Hanrahan/
+2 GIVN Christina
+2 SURN Hanrahan
+2 _MARNM Bolton
+1 SEX F
+1 DEAT Y
+2 DATE 3 JUL 1923
+2 PLAC Workhouse, Dublin Union, Dublin, Ireland
+2 AGE About 25-26
+2 CAUS Mitral Regurgitation, Cardiac failure
+1 BIRT
+2 DATE ABT 1897
+2 PLAC County Dublin, Ireland
+1 CENS
+2 DATE 31 MAR 1901
+2 PLAC Churchtown Upper, Dundrum, Dublin, Ireland
+2 AGE About 3-4
+1 OCCU No Occupation
+1 RELI Catholic
+1 FAMS @F500023@
+1 FAMC @F500024@
+1 SOUR @S4@
+2 QUAY 4
+2 DATA
+3 TEXT Christina Hanrahan&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Circa 1897 - County Dublin, Ireland&amp;lt;br&amp;gt;Residence: Mar 31 1901 - Churchtown Upper, Dundrum, Dublin, Ireland&amp;
+4 CONC lt;br&amp;gt;Religion: Catholic&amp;lt;br&amp;gt;Occupation: No Occupation&amp;lt;br&amp;gt;Age: 4&amp;lt;br&amp;gt;Marital status: Not Married&amp;lt;br&amp;gt;Father: John Hanrahan&amp;lt;br&amp;gt;
+4 CONC Mother: Mary Anne Hanrahan&amp;lt;br&amp;gt;Brother: James Hanrahan&amp;lt;br&amp;gt;Image: &amp;lt;a&amp;gt;Click here to view&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;a id='household'&amp;gt;&amp;
+4 CONC lt;/a&amp;gt;Household&amp;lt;br&amp;gt;Relation to head; Name; Age; Suggested alternatives&amp;lt;br&amp;gt;Head; &amp;lt;a href="https://www.myheritage.com/research/record-10199-2069207/john-hanraha
+4 CONC n-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;John Hanrahan&amp;lt;/a&amp;gt;; 21; &amp;lt;br&amp;gt;Wife; &amp;lt;a href="https://www.myheritage.com/research/record-10199-2069209
+4 CONC /mary-anne-hanrahan-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Mary Anne Hanrahan&amp;lt;/a&amp;gt;; 24; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/re
+4 CONC search/record-10199-2069206/christina-hanrahan-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Christina Hanrahan&amp;lt;/a&amp;gt;; 4; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://
+4 CONC www.myheritage.com/research/record-10199-2069208/james-hanrahan-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;James Hanrahan&amp;lt;/a&amp;gt;; 2;
+2 EVEN Record
+3 ROLE 10199:2069206:fea5869f60c28f9637376780f09baa23
+1 RIN MH:I500076
+1 _UID 6A68AB806D1BF45ED8403F2ADC08B2EB
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWIyZDViNmUxYjRjYWUyOTA3M2JkMThhYTRmNmY1ZWUwYTNhYjM1ZjZlZWNkZjA1NmRhODkzY2JiOTYwMTc1NzQmZT0xNzg5ODUxNjAw/165/333/6614/500041_004693gz6006fa5ka76pd6_A.pdf
+2 _FILESIZE 270842
+2 TITL ChristinaBoltonNeeHanaranDeath
+2 _PHOTO_RIN MH:P500041
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTMxOTBjNzIyZjJlOTE3NDNjMzcwYTY5M2M4MjdkZDBkMjdjMGViNzJmYWUzOWRjM2Y4YmFmY2FiNzA3ZWI1ZTYmZT0xNzg5ODUxNjAw/165/333/6614/500042_16187607a2safj606554e6_A.pdf
+2 _FILESIZE 214833
+2 TITL thomasBoltonFirstMarriage
+2 _PHOTO_RIN MH:P500042
+0 @I500077@ INDI
+1 _UPD 28 JUL 2026 14:25:36 GMT -0500 
+1 NAME John /Hanrahan/
+2 GIVN John
+2 SURN Hanrahan
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE ABT 1880
+2 PLAC County Dublin, Ireland
+1 CENS
+2 DATE 31 MAR 1901
+2 PLAC Churchtown Upper, Dundrum, Dublin, Ireland
+2 AGE About 20-21
+1 OCCU Coachman Domestic Servant
+1 RELI Catholic
+1 FAMS @F500024@
+1 SOUR @S4@
+2 QUAY 4
+2 DATA
+3 TEXT John Hanrahan&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Circa 1880 - County Dublin, Ireland&amp;lt;br&amp;gt;Residence: Mar 31 1901 - Churchtown Upper, Dundrum, Dublin, Ireland&amp;lt;br&a
+4 CONC mp;gt;Religion: Catholic&amp;lt;br&amp;gt;Occupation: Coachman Domestic Servant&amp;lt;br&amp;gt;Age: 21&amp;lt;br&amp;gt;Marital status: Married&amp;lt;br&amp;gt;Wife: Mary Anne Hanrahan&amp;lt;br&am
+4 CONC p;gt;Children: Christina Hanrahan, James Hanrahan&amp;lt;br&amp;gt;Image: &lt;a&gt;Click here to view&lt;/a&gt;&amp;lt;br&amp;gt;&amp;lt;a id='household'&amp;gt;&amp;lt;/a&amp;gt;Household&amp;lt;br&a
+4 CONC mp;gt;Relation to head; Name; Age; Suggested alternatives&amp;lt;br&amp;gt;Head; &amp;lt;a href="https://www.myheritage.com/research/record-10199-2069207/john-hanrahan-in-1901-ireland-census?s=OYYV65P
+4 CONC LE4DTKKONO75PUFEED2QZMJA"&amp;gt;John Hanrahan&amp;lt;/a&amp;gt;; 21; &amp;lt;br&amp;gt;Wife; &amp;lt;a href="https://www.myheritage.com/research/record-10199-2069209/mary-anne-hanrahan-in-1901-irelan
+4 CONC d-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Mary Anne Hanrahan&amp;lt;/a&amp;gt;; 24; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10199-2069206/christ
+4 CONC ina-hanrahan-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Christina Hanrahan&amp;lt;/a&amp;gt;; 4; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record
+4 CONC -10199-2069208/james-hanrahan-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;James Hanrahan&amp;lt;/a&amp;gt;; 2;
+2 EVEN Record
+3 ROLE 10199:2069207-:fea5869f60c28f9637376780f09baa23
+1 RIN MH:I500077
+1 _UID 6A68ABD511808CBFFCE6640BCE179322
+0 @I500078@ INDI
+1 _UPD 3 AUG 2026 09:28:40 GMT -0500 
+1 NAME Mary Anne //
+2 GIVN Mary Anne
+2 _MARNM Hanrahan
+1 SEX F
+1 BIRT
+2 DATE ABT 1877
+2 PLAC County Dublin, Ireland
+1 CENS
+2 DATE 31 MAR 1901
+2 PLAC Churchtown Upper, Dundrum, Dublin, Ireland
+2 AGE About 23-24
+1 OCCU No Occupation
+1 RELI Catholic
+1 DEAT Y
+1 FAMS @F500024@
+1 SOUR @S4@
+2 QUAY 4
+2 DATA
+3 TEXT Mary Anne Hanrahan&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Circa 1877 - County Dublin, Ireland&amp;lt;br&amp;gt;Residence: Mar 31 1901 - Churchtown Upper, Dundrum, Dublin, Ireland&amp;
+4 CONC lt;br&amp;gt;Religion: Catholic&amp;lt;br&amp;gt;Occupation: No Occupation&amp;lt;br&amp;gt;Age: 24&amp;lt;br&amp;gt;Marital status: Married&amp;lt;br&amp;gt;Husband: John Hanrahan&amp;lt;br&amp;gt;Ch
+4 CONC ildren: Christina Hanrahan, James Hanrahan&amp;lt;br&amp;gt;Image: &amp;lt;a&amp;gt;Click here to view&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;a id='household'&amp;gt;&amp;lt;/a&amp;gt;Household&am
+4 CONC p;lt;br&amp;gt;Relation to head; Name; Age; Suggested alternatives&amp;lt;br&amp;gt;Head; &amp;lt;a href="https://www.myheritage.com/research/record-10199-2069207/john-hanrahan-in-1901-ireland-census?
+4 CONC s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;John Hanrahan&amp;lt;/a&amp;gt;; 21; &amp;lt;br&amp;gt;Wife; &amp;lt;a href="https://www.myheritage.com/research/record-10199-2069209/mary-anne-hanrahan-in-19
+4 CONC 01-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Mary Anne Hanrahan&amp;lt;/a&amp;gt;; 24; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10199-20692
+4 CONC 06/christina-hanrahan-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Christina Hanrahan&amp;lt;/a&amp;gt;; 4; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/resear
+4 CONC ch/record-10199-2069208/james-hanrahan-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;James Hanrahan&amp;lt;/a&amp;gt;; 2;
+2 EVEN Record
+3 ROLE 10199:2069209-:fea5869f60c28f9637376780f09baa23
+1 RIN MH:I500078
+1 _UID 6A68ADCF3AE3CC341C63D45A128EB089
+0 @I500079@ INDI
+1 _UPD 28 JUL 2026 14:25:37 GMT -0500 
+1 NAME James /Hanrahan/
+2 GIVN James
+2 SURN Hanrahan
+1 SEX M
+1 BIRT
+2 DATE ABT 1899
+2 PLAC County Dublin, Ireland
+1 CENS
+2 DATE 31 MAR 1901
+2 PLAC Churchtown Upper, Dundrum, Dublin, Ireland
+2 AGE About 1-2
+1 OCCU No Occupation
+1 RELI Catholic
+1 FAMC @F500024@
+1 SOUR @S4@
+2 QUAY 4
+2 DATA
+3 TEXT James Hanrahan&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Circa 1899 - County Dublin, Ireland&amp;lt;br&amp;gt;Residence: Mar 31 1901 - Churchtown Upper, Dundrum, Dublin, Ireland&amp;lt;br&
+4 CONC amp;gt;Religion: Catholic&amp;lt;br&amp;gt;Occupation: No Occupation&amp;lt;br&amp;gt;Age: 2&amp;lt;br&amp;gt;Marital status: Not Married&amp;lt;br&amp;gt;Father: John Hanrahan&amp;lt;br&amp;gt;Mother
+4 CONC : Mary Anne Hanrahan&amp;lt;br&amp;gt;Sister: Christina Hanrahan&amp;lt;br&amp;gt;Image: &amp;lt;a&amp;gt;Click here to view&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;a id='household'&amp;gt;&amp;lt;
+4 CONC /a&amp;gt;Household&amp;lt;br&amp;gt;Relation to head; Name; Age; Suggested alternatives&amp;lt;br&amp;gt;Head; &amp;lt;a href="https://www.myheritage.com/research/record-10199-2069207/john-hanrahan-i
+4 CONC n-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;John Hanrahan&amp;lt;/a&amp;gt;; 21; &amp;lt;br&amp;gt;Wife; &amp;lt;a href="https://www.myheritage.com/research/record-10199-2069209/ma
+4 CONC ry-anne-hanrahan-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Mary Anne Hanrahan&amp;lt;/a&amp;gt;; 24; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/resea
+4 CONC rch/record-10199-2069206/christina-hanrahan-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Christina Hanrahan&amp;lt;/a&amp;gt;; 4; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www
+4 CONC .myheritage.com/research/record-10199-2069208/james-hanrahan-in-1901-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;James Hanrahan&amp;lt;/a&amp;gt;; 2;
+2 EVEN Record
+3 ROLE 10199:2069208-:fea5869f60c28f9637376780f09baa23
+1 RIN MH:I500079
+1 _UID 6A68ADCF8607AC351C63D45A128EB089
+0 @I500080@ INDI
+1 _UPD 28 JUL 2026 14:44:33 GMT -0500 
+1 NAME Christina /Bolton/
+2 GIVN Christina
+2 SURN Bolton
+1 SEX F
+1 BIRT
+2 DATE 4 OCT 1921
+2 PLAC Dublin
+1 DEAT Y
+2 DATE 27 JUL 1923
+2 PLAC Dr. Steevens Hospital, Dublin
+2 AGE 1
+2 CAUS Tubercular Knee joint, Tubercular Meningitis (certified)
+1 FAMC @F500023@
+1 SOUR @S6@
+2 QUAY 4
+2 DATA
+3 TEXT Christina Bolton&amp;lt;br&amp;gt;Birth: Circa 1922&amp;lt;br&amp;gt;Death: 1923 - Dublin South, Dublin, Ireland&amp;lt;br&amp;gt;Age at death: 1&amp;lt;br&amp;gt;Registration year: Between July 1923 
+4 CONC and Sep 1923&amp;lt;br&amp;gt;Registration district: Dublin South&amp;lt;br&amp;gt;Digital folder #: 004202043&amp;lt;br&amp;gt;Volume #: 2&amp;lt;br&amp;gt;File #: 101736&amp;lt;br&amp;gt;Page #: 298
+4 CONC &amp;lt;br&amp;gt;Image #: 00075
+2 EVEN Record
+3 ROLE 20866:6999013:
+1 RIN MH:I500080
+1 _UID 6A68AF590842D9777601614534DFB5C2
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTY3MWY1NTE0NjNiZGRiZDE3YmVkY2IyMDhiMjUyYmU3OTNmMWJlZGUyODIyODFhZWEwNzY3OWE4MzU2ODgyMmMmZT0xNzg5ODUxNjAw/165/333/6614/500046_270022a0571m161ica84la_A.pdf
+2 _FILESIZE 304458
+2 TITL ChristinaBoltonJRBirth1921
+2 _PHOTO_RIN MH:P500046
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWFjMDQwMWNmYzdhMmU1ZjQwMDcwMzc1OGI0OGEzNmMwOTViMzljOTVhZmQzZjc3NTVmMTc3ZTQ5OTFjMDQwZDQmZT0xNzg5ODUxNjAw/165/333/6614/500047_604296ab7sxeai1yc45610_A.pdf
+2 _FILESIZE 298228
+2 TITL ChristinaBoltonJrDeath1923
+2 _PHOTO_RIN MH:P500047
+0 @I500081@ INDI
+1 _UPD 28 JUL 2026 14:38:59 GMT -0500 
+1 NAME Bridget /Bolton/
+2 GIVN Bridget
+2 SURN Bolton
+1 SEX F
+1 BIRT
+2 DATE 8 MAR 1920
+2 PLAC Dublin
+1 DEAT Y
+2 DATE 5 FEB 1922
+2 PLAC National Childrens Hospital
+2 AGE 1
+2 CAUS Bronchopneumonia (25 days), Cardiac failure
+1 FAMC @F500023@
+1 SOUR @S6@
+2 QUAY 4
+2 DATA
+3 TEXT <p>Bridget Bolton&amp;lt;br&amp;gt;Birth: Circa 1921&amp;lt;br&amp;gt;Death: 1922 - Dublin South, Dublin, Ireland&amp;lt;br&amp;gt;Age at death: 1&amp;lt;br&amp;gt;Registration year: Between Jan 1922 
+4 CONC and Mar 1922&amp;lt;br&amp;gt;Registration district: Dublin South&amp;lt;br&amp;gt;Digital folder #: 004201713&amp;lt;br&amp;gt;Volume #: 2&amp;lt;br&amp;gt;File #: 101735&amp;lt;br&amp;gt;Page #: 482
+4 CONC &amp;lt;br&amp;gt;Image #: 00008</p>
+2 EVEN Record
+3 ROLE 20866:5882958:
+1 RIN MH:I500081
+1 _UID 6A68AFAFE378EDB48869548DA140D077
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTY2MzZiNTQ5ZTUyOWQ1NTA4YjlhNjY3OTFhZGIyYTA1MzAwZGMxNjc4N2ZlMjEyNGNiYjMwMTc1OTViMDgzN2MmZT0xNzg5ODUxNjAw/165/333/6614/500044_3265346i61013ixaa7g5hl_A.pdf
+2 _FILESIZE 214836
+2 TITL BridgetBoltonBirth1920
+2 _PHOTO_RIN MH:P500044
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWE3NjYxYmU1OTVjNDJmNDliYzA3ODQ4MDliMzRhYmFiMjA2NGFlMGJkZTM0ZmU4NTE0YmU3NmQ0Yjk5OWE1OTQmZT0xNzg5ODUxNjAw/165/333/6614/500045_6782067qn50b61a641a31y_A.pdf
+2 _FILESIZE 288436
+2 TITL BridgetBoltonDeath1922
+2 _PHOTO_RIN MH:P500045
+0 @I500105@ INDI
+1 _UPD 31 JUL 2026 14:32:31 GMT -0500 
+1 NAME Elizabeth /Bolton/
+2 GIVN Elizabeth
+2 SURN Bolton
+1 SEX F
+1 BIRT
+2 DATE 28 FEB 1863
+2 PLAC Dublin
+1 DEAT Y
+1 FAMC @F500016@
+1 RIN MH:I500105
+1 _UID 6A6CA3EEB93FF8C6ED2D5A6D19C4DF41
+0 @I500106@ INDI
+1 _UPD 31 JUL 2026 14:34:48 GMT -0500 
+1 NAME Mary (Maria) /Creagh/
+2 GIVN Mary (Maria)
+2 SURN Creagh
+2 _MARNM Bolton
+1 SEX F
+1 DEAT Y
+1 FAMS @F500016@
+1 RIN MH:I500106
+1 _UID 6A6CA4203BD2356C8275848BC0C166E1
+0 @I500107@ INDI
+1 _UPD 31 JUL 2026 14:33:58 GMT -0500 
+1 NAME Eliza /Bolton/
+2 GIVN Eliza
+2 SURN Bolton
+1 SEX F
+1 BIRT
+2 DATE 11 JUL 1857
+2 PLAC Dublin
+1 DEAT Y
+1 FAMC @F500016@
+1 RIN MH:I500107
+1 _UID 6A6CA445EE89E1A8817F61AED1FCFACC
+0 @I500108@ INDI
+1 _UPD 31 JUL 2026 14:35:16 GMT -0500 
+1 NAME Edward (Edwardus) /Bolton/
+2 GIVN Edward (Edwardus)
+2 SURN Bolton
+1 SEX M
+1 BIRT
+2 DATE 4 NOV 1855
+1 DEAT Y
+1 FAMC @F500016@
+1 RIN MH:I500108
+1 _UID 6A6CA4949A6EC6D5994E1284CFD8060A
+0 @I500109@ INDI
+1 _UPD 31 JUL 2026 14:35:49 GMT -0500 
+1 NAME Martha Mary /Bolton/
+2 GIVN Martha Mary
+2 SURN Bolton
+1 SEX F
+1 BIRT
+2 DATE 30 APR 1865
+1 DEAT Y
+1 FAMC @F500016@
+1 RIN MH:I500109
+1 _UID 6A6CA4B5B84F83BC579508882FB93816
+0 @I500110@ INDI
+1 _UPD 31 JUL 2026 14:36:15 GMT -0500 
+1 NAME Michael /Bolton/
+2 GIVN Michael
+2 SURN Bolton
+1 SEX M
+1 BIRT
+2 DATE 26 SEP 1858
+1 DEAT Y
+1 FAMC @F500016@
+1 RIN MH:I500110
+1 _UID 6A6CA4CECC24CC7A4144D2B1DC5B1B0B
+0 @I500111@ INDI
+1 _UPD 31 JUL 2026 14:41:37 GMT -0500 
+1 NAME Mary (Maria) /Bolton/
+2 GIVN Mary (Maria)
+2 SURN Bolton
+1 SEX F
+1 BIRT
+2 DATE 14 APR 1854
+2 PLAC County Dublin, Ireland
+1 DEAT Y
+1 FAMC @F500016@
+1 RIN MH:I500111
+1 _UID 6A6CA611791AF303A425DF2D05FF3D4F
+0 @I500112@ INDI
+1 _UPD 31 JUL 2026 14:59:24 GMT -0500 
+1 NAME Eliza /Bolton/
+2 GIVN Eliza
+2 SURN Bolton
+1 SEX F
+1 BIRT
+2 DATE 16 FEB 1867
+2 PLAC Dublin
+1 DEAT Y
+1 FAMC @F500016@
+1 RIN MH:I500112
+1 _UID 6A6CAA3C5F57E7FA4DBFE7FD699758F8
+0 @I500123@ INDI
+1 _UPD 3 AUG 2026 09:16:56 GMT -0500 
+1 NAME Patrick (Patch) /Ward/
+2 GIVN Patrick (Patch)
+2 SURN Ward
+1 SEX M
+1 DEAT Y
+2 DATE 3 OCT 1878
+2 PLAC Creagh, Galway, Connaught, Ireland
+1 BIRT
+2 DATE 18 FEB 1818
+2 PLAC Tuam Galway Ireland
+1 FAMS @F500035@
+1 SOUR @S500002@
+2 PAGE Patrick (Patch) Ward
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added via a Smart Match
+2 EVEN Discovery
+1 RIN MH:I500123
+1 _UID 6A70A2D7D88675BB4BFA8336E1BE3BA2
+0 @I500124@ INDI
+1 _UPD 3 AUG 2026 09:16:56 GMT -0500 
+1 NAME Johanna (Jenny) /Ward/
+2 GIVN Johanna (Jenny)
+2 SURN Ward
+2 _MARNM Ward
+1 SEX F
+1 BIRT
+2 DATE 6 NOV 1838
+1 DEAT Y
+2 DATE 18 FEB 1918
+1 FAMS @F500035@
+1 SOUR @S500002@
+2 PAGE Johanna (Jenny) Ward
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added via a Smart Match
+2 EVEN Discovery
+1 RIN MH:I500124
+1 _UID 6A70A2D817C145C14BFA8336E1BE3BA2
+0 @I500125@ INDI
+1 _UPD 3 AUG 2026 09:16:57 GMT -0500 
+1 NAME Mary /Ward/
+2 GIVN Mary
+2 SURN Ward
+1 SEX F
+1 BIRT
+2 DATE 4 APR 1856
+1 DEAT Y
+2 DATE SEP 1935
+1 FAMC @F500035@
+1 SOUR @S500002@
+2 PAGE Mary Ward
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added via a Smart Match
+2 EVEN Discovery
+1 RIN MH:I500125
+1 _UID 6A70A2D8456015C54BFA8336E1BE3BA2
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPThiNTQ2ZDY0Yzc1OTlhNzA3ZDU1NWI3YWY3YzU1ZjAzOWZmOWVhN2Q1ZmNhNDE3MzQxMTNjMDYwMzE0OTFmNTgmZT0xNzg5ODUxNjAw/165/333/6614/500060_095194hm4agk97260d820a_A.jpg
+2 _FILESIZE 58229
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500058
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500060
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTUxOTJjNzk2Yjc0NDYzYzMzOGUxZTkwNjExYTRmOWMyN2FhOWNjNTM5NTI1OGE4NjAzODdlYmYzYmQzYWMwMzYmZT0xNzg5ODUxNjAw/165/333/6614/500058_187676f80a9o2l6ied47la_A.jpg
+2 _FILESIZE 58229
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _PHOTO_RIN MH:P500058
+0 @I500126@ INDI
+1 _UPD 3 AUG 2026 09:16:56 GMT -0500 
+1 NAME Charles /Ward/
+2 GIVN Charles
+2 SURN Ward
+1 SEX M
+1 BIRT
+2 DATE 1862
+1 DEAT Y
+2 DATE 13 FEB 1938
+1 FAMC @F500035@
+1 SOUR @S500002@
+2 PAGE Charles Ward
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added via a Smart Match
+2 EVEN Discovery
+1 RIN MH:I500126
+1 _UID 6A70A2D86D6C85C94BFA8336E1BE3BA2
+0 @I500127@ INDI
+1 _UPD 3 AUG 2026 09:16:56 GMT -0500 
+1 NAME Michael /Ward/
+2 GIVN Michael
+2 SURN Ward
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE 4 OCT 1867
+1 FAMC @F500035@
+1 SOUR @S500002@
+2 PAGE Michael Ward
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added via a Smart Match
+2 EVEN Discovery
+1 RIN MH:I500127
+1 _UID 6A70A2D8991215CD4BFA8336E1BE3BA2
+0 @I500128@ INDI
+1 _UPD 3 AUG 2026 09:26:28 GMT -0500 
+1 NAME Martin /Ward/
+2 GIVN Martin
+2 SURN Ward
+1 SEX M
+1 BIRT
+2 DATE 4 OCT 1867
+2 PLAC County Galway, Ireland
+1 DEAT Y
+2 DATE JUN 1942
+2 PLAC Ballinasloe,,County Galway,Ireland
+1 OCCU Tin Smith
+1 RESI
+2 DATE 2 APR 1911
+2 AGE 43
+2 ADDR
+3 ADR1 Relation to Head of House: Head, Ballinasloe Urban, Galway, Ireland
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Iver's Lane, Ballinasloe Urban, Galway, Ireland
+1 FAMS @F500038@
+1 FAMC @F500035@
+1 SOUR @S500002@
+2 PAGE Martin Ward
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added via a Smart Match
+2 EVEN Discovery
+1 SOUR @S500005@
+2 PAGE Martin Ward
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added by confirming a Smart Match
+2 EVEN Smart Matching
+3 ROLE 1500176
+1 SOUR @S7@
+2 PAGE https://www.myheritage.com/research/record-10198-246523/martin-ward-in-1911-ireland-census
+2 QUAY 4
+2 DATA
+3 TEXT Martin Ward
+Birth: Circa 1867 - County Galway, Ireland
+Residence: Apr 2 1911 - Iver's Lane, Ballinasloe Urban, Galway, Ireland
+Wife: Margaret Ward
+Children: Martin Ward, Michael Ward, Patrick Ward, Jo
+4 CONC hn Ward, Laurence Ward, Kathleen Ward, Mary Ward, Margaret Ward, Ellen Ward
+2 EVEN Record
+3 ROLE 10198:246523:3c792aea652c40786fa8b3f0f23aa346
+1 RIN MH:I500128
+1 _UID 6A70A2D8C1FE85D14BFA8336E1BE3BA2
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTI3ZTdiNDZiNWYyOGZlYWVlODFiZmE5YTdhMmZhNjI5YjliNTY1MTM2YWYzMmVhMjgyMGVmYzVkMzEwMDg1OWImZT0xNzg5ODUxNjAw/165/333/6614/500059_303817a89b0t2dss7da64j_A.jpg
+2 _FILESIZE 43229
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500057
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500059
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWVmZDAxNjgwYTQ3Zjc1MmJmZWY2YzI4NzI3MjRhMjgyZDRhZjVkY2ZlYTRiOGVkYjg5ODcxZjViY2YzNjdiYzMmZT0xNzg5ODUxNjAw/165/333/6614/500057_103380379xsaf0284a3df6_A.jpg
+2 _FILESIZE 43229
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _PHOTO_RIN MH:P500057
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTE2YjRkOTQ0Y2ZmZWYwN2M2NzhhMDdkNTM4YzkxZTllZDA2MTc2NzRlNzM2ZDdhNzExZjA0MTIzNjMzOTA2MWMmZT0xNzg5ODUxNjAw/165/333/6614/500118_468459a5435m356aja0z7e_A.pdf
+2 _FILESIZE 668744
+2 TITL 1911Census
+2 _PHOTO_RIN MH:P500118
+0 @I500150@ INDI
+1 _UPD 3 AUG 2026 09:26:29 GMT -0500 
+1 NAME Margaret //
+2 GIVN Margaret
+2 _MARNM Ward
+1 SEX F
+1 BIRT
+2 DATE 3 AUG 1872
+2 PLAC Tuam, County Galway, Ireland
+2 NOTE Church Baptism RecordName:Margaret WardDate of Birth:  Date of Baptism:03-Aug-1871Address:Not RecordedParish/District:TUAMGender:FemaleCountyCo. GalwayDenomination:Roman CatholicFather:John WardMother
+3 CONC :Mary WardOccupation:Sponsor 1 /Informant 1:Patrick ReillySponsor 2 /Informant 2:Catherine Reilly
+1 DEAT Y
+2 DATE SEP 1938
+2 PLAC Ballinasloe, County Galway, Ireland
+2 AGE 67
+1 CENS Martin WardGender:MaleAge:44Birth Year:abt 1867Relation to Head:HeadResidence Date:2 Apr 1911Townland/Street:Iver's LaneDistrict:Ballinasloe UrbanCounty:GalwayHousehold Members:NameAgeMartin Ward44Margaret Ward39Martin Ward21Michael Ward16Patrick Ward12John Ward10Laurence Ward Kathleen Ward14Mary Ward8Margaret Ward6Ellen Ward5
+2 DATE 2 APR 1911
+2 PLAC Iver's Lane, Ballinasloe Urban, Galway, Ireland
+2 AGE 39-40
+1 RELI Roman Catholic
+1 RESI
+2 DATE 1911
+2 AGE 39-40
+2 ADDR
+3 ADR1 Ballinasloe, County Galway, Ireland
+1 FAMS @F500038@
+1 SOUR @S500005@
+2 PAGE Margaret
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added via a Smart Match
+2 EVEN Discovery
+1 SOUR @S7@
+2 PAGE https://www.myheritage.com/research/record-10198-246524/margaret-ward-in-1911-ireland-census
+2 QUAY 4
+2 DATA
+3 TEXT Margaret Ward
+Birth: Circa 1872 - County Galway, Ireland
+Residence: Apr 2 1911 - Iver's Lane, Ballinasloe Urban, Galway, Ireland
+Husband: Martin Ward
+Children: Martin Ward, Michael Ward, Patrick Ward,
+4 CONC  John Ward, Laurence Ward, Kathleen Ward, Mary Ward, Margaret Ward, Ellen Ward
+2 EVEN Record
+3 ROLE 10198:246524:3c792aea652c40786fa8b3f0f23aa346
+1 RIN MH:I500150
+1 _UID 6A70A514ECBFE30B03B6C211F599C665
+0 @I500164@ INDI
+1 _UPD 3 AUG 2026 12:57:36 GMT -0500 
+1 NAME John /Ward/
+2 GIVN John
+2 SURN Ward
+1 SEX M
+1 BIRT
+2 DATE JUN 1901
+2 PLAC Ballinasloe Galway
+1 DEAT Y
+2 DATE 1 OCT 1972
+2 PLAC 26 St Brendans Terrace, Poolboy, Ballinasloe
+2 AGE 71
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Iver's Lane, Ballinasloe Urban, Galway, Ireland
+1 OCCU Scholar
+1 RELI Roman Catholic
+1 FAMC @F500038@
+1 SOUR @S500005@
+2 PAGE John Ward
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added via a Smart Match
+2 EVEN Discovery
+1 SOUR @S7@
+2 QUAY 4
+2 DATA
+3 TEXT John Ward&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Circa 1901 - County Galway, Ireland&amp;lt;br&amp;gt;Residence: Apr 2 1911 - Iver&#039;s Lane, Ballinasloe Urban, Galway, Ireland&amp;lt
+4 CONC ;br&amp;gt;Religion: Roman Catholic&amp;lt;br&amp;gt;Occupation: Scholar&amp;lt;br&amp;gt;Age: 10&amp;lt;br&amp;gt;Marital status: Single&amp;lt;br&amp;gt;Father: Martin Ward&amp;lt;br&amp;gt;Mother: 
+4 CONC Margaret Ward&amp;lt;br&amp;gt;Siblings: Martin Ward, Michael Ward, Patrick Ward, Laurence Ward, Kathleen Ward, Mary Ward, Margaret Ward, Ellen Ward&amp;lt;br&amp;gt;Image: &lt;a&gt;Click here to view
+4 CONC &lt;/a&gt;&amp;lt;br&amp;gt;&amp;lt;a id='household'&amp;gt;&amp;lt;/a&amp;gt;Household&amp;lt;br&amp;gt;Relation to head; Name; Age; Suggested alternatives&amp;lt;br&amp;gt;Head; &amp;lt;a href="http
+4 CONC s://www.myheritage.com/research/record-10198-246523/martin-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Martin Ward&amp;lt;/a&amp;gt;; 44; &amp;lt;br&amp;gt;Wife; &amp;lt;a hr
+4 CONC ef="https://www.myheritage.com/research/record-10198-246524/margaret-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Margaret Ward&amp;lt;/a&amp;gt;; 39; &amp;lt;br&amp;gt;Son; &
+4 CONC amp;lt;a href="https://www.myheritage.com/research/record-10198-246525/martin-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Martin Ward&amp;lt;/a&amp;gt;; 21; &amp;lt;br&amp;gt
+4 CONC ;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246526/michael-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Michael Ward&amp;lt;/a&amp;gt;; 16; &amp;lt;
+4 CONC br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246530/kathleen-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Kathleen Ward&amp;lt;/a&amp;g
+4 CONC t;; 14; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246527/patrick-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Patrick Ward&amp;lt
+4 CONC ;/a&amp;gt;; 12; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246528/john-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;John Ward&amp
+4 CONC ;lt;/a&amp;gt;; 10; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246531/mary-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Mary 
+4 CONC Ward&amp;lt;/a&amp;gt;; 8; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246532/margaret-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&a
+4 CONC mp;gt;Margaret Ward&amp;lt;/a&amp;gt;; 6; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246533/ellen-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUF
+4 CONC EED2QZMJA"&amp;gt;Ellen Ward&amp;lt;/a&amp;gt;; 5; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246529/laurence-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKO
+4 CONC NO75PUFEED2QZMJA"&amp;gt;Laurence Ward&amp;lt;/a&amp;gt;; ;
+2 EVEN Record
+3 ROLE 10198:246528-:3c792aea652c40786fa8b3f0f23aa346
+1 RIN MH:I500164
+1 _UID 6A70D68D7C1092105BE133A2C1644FD9
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTQ4Zjc2YmYwNDVjM2MwMjk2MDNlYWMyOGRjMDAyYjc2MjIwMTMxNDQzZWY4NTE1NDE3Njc5MDFmN2M4ZGM4N2QmZT0xNzg5ODUxNjAw/165/333/6614/500133_02153174s036709764a0db_A.jpg
+2 _FILESIZE 812551
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500123
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500133
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWJmMGQwODdlYjIzNTg1OTZhMjJkMzJkNGFiMWU0YjI2OWVkMTRlMWRlOWI2MzM3ZTIzNGU0ODZhZTgyNjBjNDQmZT0xNzg5ODUxNjAw/165/333/6614/500123_838995q0877paa636d7fso_A.jpg
+2 _FILESIZE 812450
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _PHOTO_RIN MH:P500123
+0 @I500166@ INDI
+1 _UPD 3 AUG 2026 12:57:36 GMT -0500 
+1 NAME Charles Chistopher /Ward/
+2 GIVN Charles Chistopher
+2 SURN Ward
+1 SEX M
+1 BIRT
+2 DATE 16 DEC 1911
+2 PLAC Ballinasloe, County Galway, Ireland
+1 DEAT Y
+2 DATE DEC 1980
+2 PLAC Salford, Greater Manchester, England
+2 AGE 68-69
+1 FAMC @F500038@
+1 SOUR @S500005@
+2 PAGE Charles Chistopher Ward
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added via a Smart Match
+2 EVEN Discovery
+1 RIN MH:I500166
+1 _UID 6A70D68DD7FD62195BE133A2C1644FD9
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTRmZDQ1YTM5OGMwZTU4YmY2Mzk0NGQ0MTI0ODc4ZmY5M2QxNjg0YzNkOTVlYzVhYmY0NGI5NmYxY2I0MjlmOGYmZT0xNzg5ODUxNjAw/165/333/6614/500135_92857567087597d0a7n66m_A.jpg
+2 _FILESIZE 79052
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500122
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500135
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWNjNjU1NWUwZDY3MGM1MjMyOWYyMmM4N2E4MTM2NmFhMGZmNzZhOTc4YTdjYWQ1MDRkMDAyZDA4NzE4ZTQwODEmZT0xNzg5ODUxNjAw/165/333/6614/500122_3567268za7t3d7n6fd706v_A.jpg
+2 _FILESIZE 48468
+2 TITL 83FE71BC-829C-4C9E-AE2C-58DCE6189E86
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _POSITION 121 0 838 957
+2 _PHOTO_RIN MH:P500122
+0 @I500167@ INDI
+1 _UPD 3 AUG 2026 12:57:34 GMT -0500 
+1 NAME Johanna Elizabeth /Ward/
+2 GIVN Johanna Elizabeth
+2 SURN Ward
+1 SEX F
+1 BIRT
+2 DATE 15 MAR 1913
+2 PLAC Ballinasloe, County Galway, Ireland
+1 DEAT Y
+2 DATE 1937
+2 PLAC Ballinasloe, County Galway, Ireland
+2 AGE 23-24
+1 FAMC @F500038@
+1 SOUR @S500005@
+2 PAGE Johanna Elizabeth Ward
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added via a Smart Match
+2 EVEN Discovery
+1 RIN MH:I500167
+1 _UID 6A70D68E0ACB621D5BE133A2C1644FD9
+0 @I500168@ INDI
+1 _UPD 3 AUG 2026 13:05:00 GMT -0500 
+1 NAME Mary /Ward/
+2 GIVN Mary
+2 SURN Ward
+1 SEX F
+1 BIRT
+2 DATE ABT 1903
+2 PLAC County Galway, Ireland
+1 DEAT Y
+2 DATE 27 DEC 1973
+2 PLAC Dorchester, Suffolk, Massachusetts, United States of America
+2 AGE ABOUT 69-70
+1 RESI
+2 DATE 2 APR 1911
+2 AGE About 7-8
+2 ADDR
+3 ADR1 Relation to Head of House: Daughter, Ballinasloe Urban, Galway, Ireland
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Iver's Lane, Ballinasloe Urban, Galway, Ireland
+1 OCCU Scholar
+1 RELI Roman Catholic
+1 FAMC @F500038@
+1 SOUR @S500005@
+2 PAGE Mary Ward
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added via a Smart Match
+2 EVEN Discovery
+1 SOUR @S7@
+2 QUAY 4
+2 DATA
+3 TEXT Mary Ward&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Circa 1903 - County Galway, Ireland&amp;lt;br&amp;gt;Residence: Apr 2 1911 - Iver&#039;s Lane, Ballinasloe Urban, Galway, Ireland&amp;
+4 CONC lt;br&amp;gt;Religion: Roman Catholic&amp;lt;br&amp;gt;Occupation: Scholar&amp;lt;br&amp;gt;Age: 8&amp;lt;br&amp;gt;Marital status: Single&amp;lt;br&amp;gt;Father: Martin Ward&amp;lt;br&amp;gt;Mother:
+4 CONC  Margaret Ward&amp;lt;br&amp;gt;Siblings: Martin Ward, Michael Ward, Patrick Ward, John Ward, Laurence Ward, Kathleen Ward, Margaret Ward, Ellen Ward&amp;lt;br&amp;gt;Image: &lt;a&gt;Click here to vie
+4 CONC w&lt;/a&gt;&amp;lt;br&amp;gt;&amp;lt;a id='household'&amp;gt;&amp;lt;/a&amp;gt;Household&amp;lt;br&amp;gt;Relation to head; Name; Age; Suggested alternatives&amp;lt;br&amp;gt;Head; &amp;lt;a href="htt
+4 CONC ps://www.myheritage.com/research/record-10198-246523/martin-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Martin Ward&amp;lt;/a&amp;gt;; 44; &amp;lt;br&amp;gt;Wife; &amp;lt;a h
+4 CONC ref="https://www.myheritage.com/research/record-10198-246524/margaret-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Margaret Ward&amp;lt;/a&amp;gt;; 39; &amp;lt;br&amp;gt;Son; 
+4 CONC &amp;lt;a href="https://www.myheritage.com/research/record-10198-246525/martin-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Martin Ward&amp;lt;/a&amp;gt;; 21; &amp;lt;br&amp;g
+4 CONC t;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246526/michael-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Michael Ward&amp;lt;/a&amp;gt;; 16; &amp;lt
+4 CONC ;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246530/kathleen-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Kathleen Ward&amp;lt;/a&amp;
+4 CONC gt;; 14; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246527/patrick-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Patrick Ward&amp;l
+4 CONC t;/a&amp;gt;; 12; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246528/john-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;John Ward&am
+4 CONC p;lt;/a&amp;gt;; 10; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246531/mary-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Mary
+4 CONC  Ward&amp;lt;/a&amp;gt;; 8; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246532/margaret-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&
+4 CONC amp;gt;Margaret Ward&amp;lt;/a&amp;gt;; 6; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246533/ellen-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PU
+4 CONC FEED2QZMJA"&amp;gt;Ellen Ward&amp;lt;/a&amp;gt;; 5; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246529/laurence-ward-in-1911-ireland-census?s=OYYV65PLE4DTKK
+4 CONC ONO75PUFEED2QZMJA"&amp;gt;Laurence Ward&amp;lt;/a&amp;gt;; ;
+2 EVEN Record
+3 ROLE 10198:246531-:3c792aea652c40786fa8b3f0f23aa346
+1 RIN MH:I500168
+1 _UID 6A70D68E33BE32215BE133A2C1644FD9
+0 @I500169@ INDI
+1 _UPD 3 AUG 2026 12:57:36 GMT -0500 
+1 NAME Martin /Ward/
+2 GIVN Martin
+2 SURN Ward
+1 SEX M
+1 RESI
+2 ADDR
+3 ADR1 Maryboro
+1 BIRT
+2 DATE 1889
+2 PLAC County Roscommon, Ireland
+1 DEAT Y
+2 DATE 23 FEB 1970
+2 PLAC Maryborough, Laois, Ireland
+2 AGE 80-81
+1 RESI
+2 DATE 1915
+2 AGE 25-26
+2 ADDR
+3 ADR1 Other Records: Self, New Lane, Ballinasloe
+1 RESI
+2 DATE 2 APR 1911
+2 AGE 21-22
+2 ADDR
+3 ADR1 Relation to Head of House: Son, Ballinasloe Urban, Galway, Ireland
+1 OCCU Tin Smith
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Iver's Lane, Ballinasloe Urban, Galway, Ireland
+1 RELI Roman Catholic
+1 FAMC @F500038@
+1 SOUR @S500005@
+2 PAGE Martin Ward
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added via a Smart Match
+2 EVEN Discovery
+1 SOUR @S7@
+2 QUAY 4
+2 DATA
+3 TEXT Martin Ward&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Circa 1890 - County Roscommon, Ireland&amp;lt;br&amp;gt;Residence: Apr 2 1911 - Iver&#039;s Lane, Ballinasloe Urban, Galway, Ireland&a
+4 CONC mp;lt;br&amp;gt;Religion: Roman Catholic&amp;lt;br&amp;gt;Occupation: Tin Smith&amp;lt;br&amp;gt;Age: 21&amp;lt;br&amp;gt;Marital status: Single&amp;lt;br&amp;gt;Father: Martin Ward&amp;lt;br&amp;gt;M
+4 CONC other: Margaret Ward&amp;lt;br&amp;gt;Siblings: Michael Ward, Patrick Ward, John Ward, Laurence Ward, Kathleen Ward, Mary Ward, Margaret Ward, Ellen Ward&amp;lt;br&amp;gt;Image: &lt;a&gt;Click here to
+4 CONC  view&lt;/a&gt;&amp;lt;br&amp;gt;&amp;lt;a id='household'&amp;gt;&amp;lt;/a&amp;gt;Household&amp;lt;br&amp;gt;Relation to head; Name; Age; Suggested alternatives&amp;lt;br&amp;gt;Head; &amp;lt;a href=
+4 CONC "https://www.myheritage.com/research/record-10198-246523/martin-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Martin Ward&amp;lt;/a&amp;gt;; 44; &amp;lt;br&amp;gt;Wife; &amp;lt
+4 CONC ;a href="https://www.myheritage.com/research/record-10198-246524/margaret-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Margaret Ward&amp;lt;/a&amp;gt;; 39; &amp;lt;br&amp;gt;S
+4 CONC on; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246525/martin-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Martin Ward&amp;lt;/a&amp;gt;; 21; &amp;lt;br&a
+4 CONC mp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246526/michael-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Michael Ward&amp;lt;/a&amp;gt;; 16; &am
+4 CONC p;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246530/kathleen-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Kathleen Ward&amp;lt;/a&
+4 CONC amp;gt;; 14; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246527/patrick-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Patrick Ward&a
+4 CONC mp;lt;/a&amp;gt;; 12; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246528/john-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;John War
+4 CONC d&amp;lt;/a&amp;gt;; 10; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246531/mary-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;
+4 CONC Mary Ward&amp;lt;/a&amp;gt;; 8; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246532/margaret-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZM
+4 CONC JA"&amp;gt;Margaret Ward&amp;lt;/a&amp;gt;; 6; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246533/ellen-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO
+4 CONC 75PUFEED2QZMJA"&amp;gt;Ellen Ward&amp;lt;/a&amp;gt;; 5; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246529/laurence-ward-in-1911-ireland-census?s=OYYV65PLE4
+4 CONC DTKKONO75PUFEED2QZMJA"&amp;gt;Laurence Ward&amp;lt;/a&amp;gt;; ;
+2 EVEN Record
+3 ROLE 10198:246525-:3c792aea652c40786fa8b3f0f23aa346
+1 RIN MH:I500169
+1 _UID 6A70D68E5F24F2265BE133A2C1644FD9
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTcxNmNhMzhjYjY0YTE1YjZlNGYxYzQ4YWYyZmMxMGZmNzU5NTVmYmZmYjVmYzQ5NTJkYTQ3YTJiMjBlNzU5ODUmZT0xNzg5ODUxNjAw/165/333/6614/500136_302745dn9mla670dn0y767_A.jpg
+2 _FILESIZE 49043
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500125
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500136
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWZhNzIxNTRjNWY1YjU1ZjQxNTI2ZmU0MTQ3M2JhM2I3MTRhZjBmNWY3NGIyZTExNWRlMmJkZjFmM2U1OGMzMmImZT0xNzg5ODUxNjAw/165/333/6614/500125_122636276p67p8kac0ffd7_A.jpg
+2 _FILESIZE 74126
+2 TITL 4ACA7352-85CF-4E83-8431-7B72957E0DB7
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _POSITION 299 0 799 667
+2 _PHOTO_RIN MH:P500125
+0 @I500170@ INDI
+1 _UPD 3 AUG 2026 12:57:34 GMT -0500 
+1 NAME Laurence /Ward/
+2 GIVN Laurence
+2 SURN Ward
+1 SEX M
+1 BIRT
+2 DATE 30 OCT 1910
+2 PLAC Ballinasloe Galway
+1 RESI
+2 DATE 1915
+2 AGE 4-5
+2 ADDR
+3 ADR1 Other Records: Child
+1 DEAT Y
+2 PLAC Boston
+1 RESI
+2 DATE 2 APR 1911
+2 AGE 0
+2 ADDR
+3 ADR1 Relation to Head of House: Son, Ballinasloe Urban, Galway, Ireland
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Iver's Lane, Ballinasloe Urban, Galway, Ireland
+1 RELI Roman Catholic
+1 FAMC @F500038@
+1 SOUR @S500005@
+2 PAGE Laurence Ward
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added via a Smart Match
+2 EVEN Discovery
+1 SOUR @S7@
+2 QUAY 4
+2 DATA
+3 TEXT Laurence Ward&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: County Galway, Ireland&amp;lt;br&amp;gt;Residence: Apr 2 1911 - Iver&#039;s Lane, Ballinasloe Urban, Galway, Ireland&amp;lt;br&amp;g
+4 CONC t;Religion: Roman Catholic&amp;lt;br&amp;gt;Age: &lt; 1&amp;lt;br&amp;gt;Father: Martin Ward&amp;lt;br&amp;gt;Mother: Margaret Ward&amp;lt;br&amp;gt;Siblings: Martin Ward, Michael Ward, Patrick Ward, 
+4 CONC John Ward, Kathleen Ward, Mary Ward, Margaret Ward, Ellen Ward&amp;lt;br&amp;gt;Image: &lt;a&gt;Click here to view&lt;/a&gt;&amp;lt;br&amp;gt;&amp;lt;a id='household'&amp;gt;&amp;lt;/a&amp;gt;Househol
+4 CONC d&amp;lt;br&amp;gt;Relation to head; Name; Age; Suggested alternatives&amp;lt;br&amp;gt;Head; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246523/martin-ward-in-1911-ireland-census
+4 CONC ?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Martin Ward&amp;lt;/a&amp;gt;; 44; &amp;lt;br&amp;gt;Wife; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246524/margaret-ward-in-1911-irel
+4 CONC and-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Margaret Ward&amp;lt;/a&amp;gt;; 39; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246525/martin-ward-in-
+4 CONC 1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Martin Ward&amp;lt;/a&amp;gt;; 21; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246526/michael-
+4 CONC ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Michael Ward&amp;lt;/a&amp;gt;; 16; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-2
+4 CONC 46530/kathleen-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Kathleen Ward&amp;lt;/a&amp;gt;; 14; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/rec
+4 CONC ord-10198-246527/patrick-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Patrick Ward&amp;lt;/a&amp;gt;; 12; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/res
+4 CONC earch/record-10198-246528/john-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;John Ward&amp;lt;/a&amp;gt;; 10; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage
+4 CONC .com/research/record-10198-246531/mary-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Mary Ward&amp;lt;/a&amp;gt;; 8; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myh
+4 CONC eritage.com/research/record-10198-246532/margaret-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Margaret Ward&amp;lt;/a&amp;gt;; 6; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="
+4 CONC https://www.myheritage.com/research/record-10198-246533/ellen-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Ellen Ward&amp;lt;/a&amp;gt;; 5; &amp;lt;br&amp;gt;Son; &amp;lt;a hr
+4 CONC ef="https://www.myheritage.com/research/record-10198-246529/laurence-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Laurence Ward&amp;lt;/a&amp;gt;; ;
+2 EVEN Record
+3 ROLE 10198:246529-:3c792aea652c40786fa8b3f0f23aa346
+1 RIN MH:I500170
+1 _UID 6A70D68E98EC922E5BE133A2C1644FD9
+0 @I500171@ INDI
+1 _UPD 3 AUG 2026 12:57:34 GMT -0500 
+1 NAME Patrick /Ward/
+2 GIVN Patrick
+2 SURN Ward
+1 SEX M
+1 BIRT
+2 DATE ABT 1899
+2 PLAC Ballinasloe,,County Galway,Ireland
+1 RESI
+2 DATE 2 APR 1911
+2 AGE About 11-12
+2 ADDR
+3 ADR1 Relation to Head of House: Son, Ballinasloe Urban, Galway, Ireland
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Iver's Lane, Ballinasloe Urban, Galway, Ireland
+1 OCCU Scholar
+1 RELI Roman Catholic
+1 FAMC @F500038@
+1 SOUR @S500005@
+2 PAGE Patrick Ward
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added via a Smart Match
+2 EVEN Discovery
+1 SOUR @S7@
+2 QUAY 4
+2 DATA
+3 TEXT Patrick Ward&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Circa 1899 - County Galway, Ireland&amp;lt;br&amp;gt;Residence: Apr 2 1911 - Iver&#039;s Lane, Ballinasloe Urban, Galway, Ireland&amp
+4 CONC ;lt;br&amp;gt;Religion: Roman Catholic&amp;lt;br&amp;gt;Occupation: Scholar&amp;lt;br&amp;gt;Age: 12&amp;lt;br&amp;gt;Marital status: Single&amp;lt;br&amp;gt;Father: Martin Ward&amp;lt;br&amp;gt;Mothe
+4 CONC r: Margaret Ward&amp;lt;br&amp;gt;Siblings: Martin Ward, Michael Ward, John Ward, Laurence Ward, Kathleen Ward, Mary Ward, Margaret Ward, Ellen Ward&amp;lt;br&amp;gt;Image: &lt;a&gt;Click here to view
+4 CONC &lt;/a&gt;&amp;lt;br&amp;gt;&amp;lt;a id='household'&amp;gt;&amp;lt;/a&amp;gt;Household&amp;lt;br&amp;gt;Relation to head; Name; Age; Suggested alternatives&amp;lt;br&amp;gt;Head; &amp;lt;a href="http
+4 CONC s://www.myheritage.com/research/record-10198-246523/martin-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Martin Ward&amp;lt;/a&amp;gt;; 44; &amp;lt;br&amp;gt;Wife; &amp;lt;a hr
+4 CONC ef="https://www.myheritage.com/research/record-10198-246524/margaret-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Margaret Ward&amp;lt;/a&amp;gt;; 39; &amp;lt;br&amp;gt;Son; &
+4 CONC amp;lt;a href="https://www.myheritage.com/research/record-10198-246525/martin-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Martin Ward&amp;lt;/a&amp;gt;; 21; &amp;lt;br&amp;gt
+4 CONC ;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246526/michael-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Michael Ward&amp;lt;/a&amp;gt;; 16; &amp;lt;
+4 CONC br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246530/kathleen-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Kathleen Ward&amp;lt;/a&amp;g
+4 CONC t;; 14; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246527/patrick-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Patrick Ward&amp;lt
+4 CONC ;/a&amp;gt;; 12; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246528/john-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;John Ward&amp
+4 CONC ;lt;/a&amp;gt;; 10; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246531/mary-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Mary 
+4 CONC Ward&amp;lt;/a&amp;gt;; 8; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246532/margaret-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&a
+4 CONC mp;gt;Margaret Ward&amp;lt;/a&amp;gt;; 6; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246533/ellen-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUF
+4 CONC EED2QZMJA"&amp;gt;Ellen Ward&amp;lt;/a&amp;gt;; 5; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246529/laurence-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKO
+4 CONC NO75PUFEED2QZMJA"&amp;gt;Laurence Ward&amp;lt;/a&amp;gt;; ;
+2 EVEN Record
+3 ROLE 10198:246527-:3c792aea652c40786fa8b3f0f23aa346
+1 RIN MH:I500171
+1 _UID 6A70D68ECAF442345BE133A2C1644FD9
+0 @I500172@ INDI
+1 _UPD 3 AUG 2026 13:04:57 GMT -0500 
+1 NAME Michael /Ward/
+2 GIVN Michael
+2 SURN Ward
+1 SEX M
+1 BIRT
+2 DATE ABT 1895
+2 PLAC County Roscommon, Ireland
+1 RESI
+2 DATE 2 APR 1911
+2 AGE About 15-16
+2 ADDR
+3 ADR1 Relation to Head of House: Son, Ballinasloe Urban, Galway, Ireland
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Iver's Lane, Ballinasloe Urban, Galway, Ireland
+1 OCCU General Labourer
+1 RELI Roman Catholic
+1 FAMC @F500038@
+1 SOUR @S500005@
+2 PAGE Michael Ward
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added via a Smart Match
+2 EVEN Discovery
+1 RIN MH:I500172
+1 _UID 6A70D68EEEF2D2385BE133A2C1644FD9
+0 @I500173@ INDI
+1 _UPD 3 AUG 2026 12:57:35 GMT -0500 
+1 NAME Margaret /Ward/
+2 GIVN Margaret
+2 SURN Ward
+1 SEX F
+1 BIRT
+2 DATE 20 APR 1905
+2 PLAC Ballinasloe, Galway, Ireland
+1 DEAT Y
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Iver's Lane, Ballinasloe Urban, Galway, Ireland
+1 OCCU Scholar
+1 RELI Roman Catholic
+1 FAMC @F500038@
+1 SOUR @S500005@
+2 PAGE Margaret Ward
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added via a Smart Match
+2 EVEN Discovery
+1 SOUR @S7@
+2 QUAY 4
+2 DATA
+3 TEXT Margaret Ward&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Circa 1905 - County Galway, Ireland&amp;lt;br&amp;gt;Residence: Apr 2 1911 - Iver&#039;s Lane, Ballinasloe Urban, Galway, Ireland&
+4 CONC amp;lt;br&amp;gt;Religion: Roman Catholic&amp;lt;br&amp;gt;Occupation: Scholar&amp;lt;br&amp;gt;Age: 6&amp;lt;br&amp;gt;Father: Martin Ward&amp;lt;br&amp;gt;Mother: Margaret Ward&amp;lt;br&amp;gt;Sibl
+4 CONC ings: Martin Ward, Michael Ward, Patrick Ward, John Ward, Laurence Ward, Kathleen Ward, Mary Ward, Ellen Ward&amp;lt;br&amp;gt;Image: &lt;a&gt;Click here to view&lt;/a&gt;&amp;lt;br&amp;gt;&amp;lt;a i
+4 CONC d='household'&amp;gt;&amp;lt;/a&amp;gt;Household&amp;lt;br&amp;gt;Relation to head; Name; Age; Suggested alternatives&amp;lt;br&amp;gt;Head; &amp;lt;a href="https://www.myheritage.com/research/record-
+4 CONC 10198-246523/martin-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Martin Ward&amp;lt;/a&amp;gt;; 44; &amp;lt;br&amp;gt;Wife; &amp;lt;a href="https://www.myheritage.com/research
+4 CONC /record-10198-246524/margaret-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Margaret Ward&amp;lt;/a&amp;gt;; 39; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.c
+4 CONC om/research/record-10198-246525/martin-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Martin Ward&amp;lt;/a&amp;gt;; 21; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myher
+4 CONC itage.com/research/record-10198-246526/michael-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Michael Ward&amp;lt;/a&amp;gt;; 16; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="htt
+4 CONC ps://www.myheritage.com/research/record-10198-246530/kathleen-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Kathleen Ward&amp;lt;/a&amp;gt;; 14; &amp;lt;br&amp;gt;Son; &amp;lt;
+4 CONC a href="https://www.myheritage.com/research/record-10198-246527/patrick-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Patrick Ward&amp;lt;/a&amp;gt;; 12; &amp;lt;br&amp;gt;Son;
+4 CONC  &amp;lt;a href="https://www.myheritage.com/research/record-10198-246528/john-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;John Ward&amp;lt;/a&amp;gt;; 10; &amp;lt;br&amp;gt;D
+4 CONC aughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246531/mary-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Mary Ward&amp;lt;/a&amp;gt;; 8; &amp;lt;br&a
+4 CONC mp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246532/margaret-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Margaret Ward&amp;lt;/a&amp;gt;; 
+4 CONC 6; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246533/ellen-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Ellen Ward&amp;lt;/a&
+4 CONC amp;gt;; 5; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246529/laurence-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Laurence Ward&
+4 CONC amp;lt;/a&amp;gt;; ;
+2 EVEN Record
+3 ROLE 10198:246532-:3c792aea652c40786fa8b3f0f23aa346
+1 RIN MH:I500173
+1 _UID 6A70D68F1FE1E23C5BE133A2C1644FD9
+0 @I500174@ INDI
+1 _UPD 3 AUG 2026 12:57:35 GMT -0500 
+1 NAME Ellen /Ward/
+2 GIVN Ellen
+2 SURN Ward
+1 SEX F
+1 BIRT
+2 DATE 27 JUN 1906
+2 PLAC Ballinasloe, Galway, Ireland
+1 DEAT Y
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Iver's Lane, Ballinasloe Urban, Galway, Ireland
+1 OCCU Scholar
+1 RELI Roman Catholic
+1 FAMC @F500038@
+1 SOUR @S500005@
+2 PAGE Ellen Ward
+2 QUAY 3
+2 DATA
+3 DATE 3 AUG 2026
+3 TEXT Added via a Smart Match
+2 EVEN Discovery
+1 RIN MH:I500174
+1 _UID 6A70D68F45F782405BE133A2C1644FD9
+0 @I500176@ INDI
+1 _UPD 3 AUG 2026 13:06:10 GMT -0500 
+1 NAME Kathleen /Ward/
+2 GIVN Kathleen
+2 SURN Ward
+1 SEX F
+1 BIRT
+2 DATE ABT 1897
+2 PLAC County Galway, Ireland
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Iver's Lane, Ballinasloe Urban, Galway, Ireland
+1 OCCU Scholar
+1 RELI Roman Catholic
+1 DEAT Y
+1 FAMC @F500038@
+1 SOUR @S7@
+2 QUAY 4
+2 DATA
+3 TEXT Kathleen Ward&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Circa 1897 - County Galway, Ireland&amp;lt;br&amp;gt;Residence: Apr 2 1911 - Iver's Lane, Ballinasloe Urban, Galway, Ireland&amp;l
+4 CONC t;br&amp;gt;Religion: Roman Catholic&amp;lt;br&amp;gt;Occupation: Scholar&amp;lt;br&amp;gt;Age: 14&amp;lt;br&amp;gt;Marital status: Single&amp;lt;br&amp;gt;Father: Martin Ward&amp;lt;br&amp;gt;Mother:
+4 CONC  Margaret Ward&amp;lt;br&amp;gt;Siblings: Martin Ward, Michael Ward, Patrick Ward, John Ward, Laurence Ward, Mary Ward, Margaret Ward, Ellen Ward&amp;lt;br&amp;gt;Image: &amp;lt;a&amp;gt;Click here to
+4 CONC  view&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;a id='household'&amp;gt;&amp;lt;/a&amp;gt;Household&amp;lt;br&amp;gt;Relation to head; Name; Age; Suggested alternatives&amp;lt;br&amp;gt;Head; &amp;lt
+4 CONC ;a href="https://www.myheritage.com/research/record-10198-246523/martin-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Martin Ward&amp;lt;/a&amp;gt;; 44; &amp;lt;br&amp;gt;Wife;
+4 CONC  &amp;lt;a href="https://www.myheritage.com/research/record-10198-246524/margaret-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Margaret Ward&amp;lt;/a&amp;gt;; 39; &amp;lt;br&
+4 CONC amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246525/martin-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Martin Ward&amp;lt;/a&amp;gt;; 21; &amp
+4 CONC ;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246526/michael-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Michael Ward&amp;lt;/a&amp;gt;;
+4 CONC  16; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246530/kathleen-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Kathleen Ward&am
+4 CONC p;lt;/a&amp;gt;; 14; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246527/patrick-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Patric
+4 CONC k Ward&amp;lt;/a&amp;gt;; 12; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246528/john-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;
+4 CONC John Ward&amp;lt;/a&amp;gt;; 10; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246531/mary-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PUFEED2QZMJA"
+4 CONC &amp;gt;Mary Ward&amp;lt;/a&amp;gt;; 8; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246532/margaret-ward-in-1911-ireland-census?s=OYYV65PLE4DTKKONO75PU
+4 CONC FEED2QZMJA"&amp;gt;Margaret Ward&amp;lt;/a&amp;gt;; 6; &amp;lt;br&amp;gt;Daughter; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246533/ellen-ward-in-1911-ireland-census?s=OYYV65PLE
+4 CONC 4DTKKONO75PUFEED2QZMJA"&amp;gt;Ellen Ward&amp;lt;/a&amp;gt;; 5; &amp;lt;br&amp;gt;Son; &amp;lt;a href="https://www.myheritage.com/research/record-10198-246529/laurence-ward-in-1911-ireland-census?s=OY
+4 CONC YV65PLE4DTKKONO75PUFEED2QZMJA"&amp;gt;Laurence Ward&amp;lt;/a&amp;gt;; ;
+2 EVEN Record
+3 ROLE 10198:246530-:3c792aea652c40786fa8b3f0f23aa346
+1 RIN MH:I500176
+1 _UID 6A70D848CA421FD04F3296D7E910EFC7
+0 @I500177@ INDI
+1 _UPD 3 AUG 2026 15:24:11 GMT -0500 
+1 NAME Thomas /Maughan/
+2 GIVN Thomas
+2 SURN Maughan
+1 SEX M
+1 FAMS @F500040@
+1 RIN MH:I500177
+1 _UID 6A70F8EB50A9D8B8F19B2BB1862CB372
+0 @I500178@ INDI
+1 _UPD 3 AUG 2026 15:24:21 GMT -0500 
+1 NAME Bridget /Ward/
+2 GIVN Bridget
+2 SURN Ward
+1 SEX F
+1 FAMS @F500040@
+1 RIN MH:I500178
+1 _UID 6A70F8F4E44FFC587FCC401C6D47828C
+0 @I500179@ INDI
+1 _UPD 6 SEP 2026 08:02:38 GMT -0500 
+1 NAME Bridget /McCluskey/
+2 GIVN Bridget
+2 SURN McCluskey
+2 _MARNM Bolton
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 14 MAR 1908
+2 PLAC 10 Upper Digges Street
+1 FAMS @F500006@
+1 FAMC @F500041@
+1 RIN MH:I500179
+1 _UID 6A9D6237763764A4622FC241526A17FC
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTc3ZmQ3MDcwZWYzYzM5MmYxNWY1NDVhNjEyMGE5NzYyZTk2MWUwNjljMDM4MjM2NDRlZTI4MDI1NmMwOWQwYTYmZT0xNzg5ODUxNjAw/165/333/6614/500141_986270s55m65y9a6r46d7k_A.pdf
+2 _FILESIZE 182986
+2 TITL 1908BirthCert
+2 _PHOTO_RIN MH:P500141
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPThmZWIwNjcwNzE1MmZjZDVlZWUyNWM4MWUyMTU4NjIzZWJmMDE0OWIwOTQyY2Q3NmM0YTE0ZmFmMjM5NDYyZjQmZT0xNzg5ODUxNjAw/165/333/6614/500142_557123rp7453665dadyl96_A.pdf
+2 _FILESIZE 274071
+2 TITL MarriageCert1934
+2 _PHOTO_RIN MH:P500142
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTM4ZTM0MzhkMGY1MzZkMzU3NTkxZjJlZWE0MzBmZGE0Yzg2MTg2YmVjOTE1NGQ2YjZhZGYxYWY5OWRlMzQwNWYmZT0xNzg5ODUxNjAw/165/333/6614/500151_5030370d48e7arid697q85_A.pdf
+2 _FILESIZE 585748
+2 TITL 1911Census
+2 _PHOTO_RIN MH:P500151
+0 @I500180@ INDI
+1 _UPD 6 SEP 2026 09:22:47 GMT -0500 
+1 NAME Michael /McCluskey/
+2 GIVN Michael
+2 SURN McCluskey
+1 SEX M
+1 DEAT Y
+2 DATE 2 FEB 1922
+2 PLAC Whitworth Hospital, Dublin
+2 CAUS Bronchitis, Emphysema, and Dilatation of the Heart
+1 BIRT
+2 DATE 26 FEB 1885
+2 PLAC 82 Bride Street
+1 FAMS @F500041@
+1 FAMC @F500042@
+1 RIN MH:I500180
+1 _UID 6A9D6283EAF409C968FE0BDBD1422FE2
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWZiZmM0M2JlZDJlY2EwYTA5OTFkYzhhNTcxODNiZDI5N2M3ZjRhMzM1NTEyNWI0ZjRjNjcyZjcwODg0MWVmNjQmZT0xNzg5ODUxNjAw/165/333/6614/500145_896840950a864r270dj105_A.pdf
+2 _FILESIZE 212796
+2 TITL 1908Marriage
+2 _PHOTO_RIN MH:P500145
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTVmNWQ0YThjM2YzOTBjYTQ0ZmJhZDBmYmU5YjViMWJkOGZkNmFlNmRmMGVhMDFkNTk3ZTNkM2JjN2YxM2VhMmMmZT0xNzg5ODUxNjAw/165/333/6614/500146_2900835a069dcp681az742_A.pdf
+2 _FILESIZE 585748
+2 TITL 1911Census
+2 _PHOTO_RIN MH:P500146
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWVjZWFlNjIyNTQ1Y2ZmNDQyY2E3NjgwN2Y0OGI0MjczNDcyMTgwYjJlNTQxNjEwOTBiNzJmMzJkZDA4ZTgyNzUmZT0xNzg5ODUxNjAw/165/333/6614/500153_772651ay716dk96mna666e_A.pdf
+2 _FILESIZE 174247
+2 TITL 1922DeathCert
+2 _PHOTO_RIN MH:P500153
+0 @I500181@ INDI
+1 _UPD 6 SEP 2026 08:03:13 GMT -0500 
+1 NAME Ellen Mary /McCluskey/
+2 GIVN Ellen Mary
+2 SURN McCluskey
+1 SEX F
+1 BIRT
+2 DATE 20 MAR 1909
+2 PLAC 37 Upper Mercer Street
+1 FAMC @F500041@
+1 RIN MH:I500181
+1 _UID 6A9D6490D81BB595A66EC0E2CF48848C
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWFiZGJhM2VjOTZiMzAyZjFlNjU1Nzc2YTA0OGJhZWI0OTNkZjBjMDg3YWZhNzAyNTIwMjg3ZmY1NzZmNGFjZWQmZT0xNzg5ODUxNjAw/165/333/6614/500143_533060gq6ah19bd16b9595_A.pdf
+2 _FILESIZE 277026
+2 TITL BirthCert
+2 _PHOTO_RIN MH:P500143
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWYzZTFiNTU0MTk1NGIyZDVmMjA0MTQxZmU3NTUzNmY1ZWQ3MDYyNzQxZTZkYTcwNzFkYThlNDI1OWRmOTI2ZGMmZT0xNzg5ODUxNjAw/165/333/6614/500149_24192177a60d7o42lq79mq_A.pdf
+2 _FILESIZE 585748
+2 TITL 1911Census
+2 _PHOTO_RIN MH:P500149
+0 @I500182@ INDI
+1 _UPD 6 SEP 2026 08:05:10 GMT -0500 
+1 NAME Michael /McCluskey/
+2 GIVN Michael
+2 SURN McCluskey
+1 SEX M
+1 BIRT
+2 DATE 14 FEB 1912
+2 PLAC 37 Upper Mercer Street
+1 DEAT Y
+1 FAMC @F500041@
+1 RIN MH:I500182
+1 _UID 6A9D65066BA850F1883554BCA38C6224
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTY0NDc2NDVkOTVjZTU5MjIyMTQzNjEzMDdjZjAxNTg5Mjg5MDYxM2I1MjBhZDhjYmU5MTlmMWEzM2Y5N2ZmZTUmZT0xNzg5ODUxNjAw/165/333/6614/500144_37699739ri365dqa26276p_A.pdf
+2 _FILESIZE 227397
+2 TITL 1912Birth
+2 _PHOTO_RIN MH:P500144
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWQ2YmJjZWIwOWJjZjU1M2M2YTMwYWMyNTQ2Zjg5YTliNGVmNzc2NWY5YjYwMDk2ZWM1N2FhYWZlYjk1NDVhNjkmZT0xNzg5ODUxNjAw/165/333/6614/500150_848410sapd90a6a76s7d89_A.pdf
+2 _FILESIZE 585748
+2 TITL 1911Census
+2 _PHOTO_RIN MH:P500150
+0 @I500183@ INDI
+1 _UPD 6 SEP 2026 16:26:49 GMT -0500 
+1 NAME Charlotte /Farrell/
+2 GIVN Charlotte
+2 SURN Farrell
+2 _MARNM McClusky
+1 SEX F
+1 BIRT
+2 DATE 30 DEC 1883
+2 PLAC 11 Brides Alley
+1 FAMS @F500041@
+1 FAMC @F500043@
+1 RIN MH:I500183
+1 _UID 6A9D6538210B98C284ECA9ABFFD37658
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWRiNmExNTE5NWFmZTg1N2ZiYjYxNzJmN2MwYzk1NmEyM2RhODY3N2I4NmM0MGQzZmZmYTE5MDZhZWU1ODVhMWMmZT0xNzg5ODUxNjAw/165/333/6614/500147_682031667wof990ga016d4_A.pdf
+2 _FILESIZE 585748
+2 TITL 1911Census
+2 _PHOTO_RIN MH:P500147
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTc2YmI5MWMwNzgzNTQ1N2YxYTYxNzIwOTk1ZjI3NmVhNWIwMjc4OTc5NWJjYWJhMmU3MWFlNWZkZWI5Mjk0OWUmZT0xNzg5ODUxNjAw/165/333/6614/500148_8966980v6a646r9l720d96_A.pdf
+2 _FILESIZE 212796
+2 TITL 1908Marriage
+2 _PHOTO_RIN MH:P500148
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTMxMTYzMmEwNWFhZmQzMTk1ZDhjNGQxMjRiYjUxOGQ0ZDA4YmVjZGJkMjA5MjA5MjA1MjI5MzliMTgzM2RjNjEmZT0xNzg5ODUxNjAw/165/333/6614/500156_745955dd73066vg69a1fma_A.pdf
+2 _FILESIZE 267062
+2 TITL 1883BirthCert
+2 _PHOTO_RIN MH:P500156
+0 @I500184@ INDI
+1 _UPD 6 SEP 2026 08:55:08 GMT -0500 
+1 NAME John /McCluskey/
+2 GIVN John
+2 SURN McCluskey
+1 SEX M
+1 BIRT
+2 DATE 26 JAN 1911
+2 PLAC (Coombe Hospital
+1 FAMC @F500041@
+1 RIN MH:I500184
+1 _UID 6A9D6DB44F2D58060FBF1511A640DD36
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTJiM2VlOGU4YjJiNjczMzVkMDI4MzVlZmE1MDU0YjA1Y2NmNzNhYzU1ZDA2MThkNDkwMTk3NjdjNWJlMmQxZjAmZT0xNzg5ODUxNjAw/165/333/6614/500152_577691cln66d06k7r9na04_A.pdf
+2 _FILESIZE 585748
+2 TITL 1911Census
+2 _PHOTO_RIN MH:P500152
+0 @I500185@ INDI
+1 _UPD 6 SEP 2026 08:42:35 GMT -0500 
+1 NAME Kathleen /McCluskey/
+2 GIVN Kathleen
+2 SURN McCluskey
+1 SEX F
+1 BIRT
+2 DATE 23 FEB 1914
+2 PLAC 6 Longford Street
+1 FAMC @F500041@
+1 RIN MH:I500185
+1 _UID 6A9D6DCB9EBAEDB4BBEBF774254B5FD7
+0 @I500186@ INDI
+1 _UPD 6 SEP 2026 09:56:53 GMT -0500 
+1 NAME Patrick /McCluskey/
+2 GIVN Patrick
+2 SURN McCluskey
+1 SEX M
+1 DEAT Y
+2 DATE 2 FEB 1901
+2 PLAC Workhouse, N.D.U
+2 CAUS pulmonary tuberculosis (TB)
+1 BIRT
+2 DATE ABT 1855
+1 OCCU Shoe Maker
+1 FAMS @F500042@
+1 RIN MH:I500186
+1 _UID 6A9D6F315D409E8B54E268E861B1C9FF
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTk4YmE2MjcwZTIyZjA0YWNmZTdiODllMGZjYmE3MTlmNjJjYTUzNDJiNDdjYmIxNjcwN2RmYjNlYzdkMWQ2YzkmZT0xNzg5ODUxNjAw/165/333/6614/500154_45953298dsua5ft16v9781_A.pdf
+2 _FILESIZE 274453
+2 TITL 1901DeathCert
+2 _PHOTO_RIN MH:P500154
+0 @I500187@ INDI
+1 _UPD 6 SEP 2026 08:48:58 GMT -0500 
+1 NAME James /Farrell/
+2 GIVN James
+2 SURN Farrell
+1 SEX M
+1 FAMS @F500043@
+1 RIN MH:I500187
+1 _UID 6A9D6F4AB471EBC58DF1BEB675D46B99
+0 @I500188@ INDI
+1 _UPD 6 SEP 2026 09:22:14 GMT -0500 
+1 NAME Kate /McCluskey/
+2 GIVN Kate
+2 SURN McCluskey
+2 _MARNM Owens
+1 SEX F
+1 DEAT Y
+1 OCCU Book Folder
+1 FAMS @F500042@
+1 RIN MH:I500188
+1 _UID 6A9D771622B395435D3D3CF4647252ED
+0 @I500189@ INDI
+1 _UPD 6 SEP 2026 10:00:04 GMT -0500 
+1 NAME Patrick /McCluskey/
+2 GIVN Patrick
+2 SURN McCluskey
+1 SEX M
+1 BIRT
+2 DATE ABT 1879
+1 DEAT Y
+1 FAMS @F500050@
+1 FAMC @F500042@
+1 RIN MH:I500189
+1 _UID 6A9D7FF3CEA3F5E60F9EBEC47FFDBF16
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWE2YzYyZDFhNTA2YTk4YzFhNTQ1ZThlOTFlODRmZWZiZWI1ZmQ2ZDYxMjEyZTRkMDc3M2Y5ZTMwY2VjZWJkODAmZT0xNzg5ODUxNjAw/165/333/6614/500172_76332587e69364f902xbac_A.pdf
+2 _FILESIZE 222192
+2 TITL WeddingCert
+2 _PHOTO_RIN MH:P500172
+0 @I500190@ INDI
+1 _UPD 7 SEP 2026 14:57:41 GMT -0500 
+1 NAME John Joseph /McCluskey/
+2 GIVN John Joseph
+2 SURN McCluskey
+1 SEX M
+1 BIRT
+2 DATE 19 FEB 1881
+2 PLAC 72 Bride Street, Dublin
+1 DEAT Y
+1 BURI
+2 PLAC G. No; XC106. (New) Prospect Cemetery, Glasnevin, Dublin.
+1 FAMS @F500044@
+1 FAMC @F500042@
+1 RIN MH:I500190
+1 _UID 6A9D800091DE040B4CAFFE452B911610
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTdjMWI2ZGZhZmE2MjQ2Nzk0NmY2OWRkZTYxMzQ0ZGU1NzAxOTM3OWEwNzExMzhjNjQ1ZTJmOWYyMmJhZWE0YjUmZT0xNzg5ODUxNjAw/165/333/6614/500174_7541426916enf49a76adq0_A.jpg
+2 _FILESIZE 13580
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500173
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500174
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWVhMmYxMWIwNWQ0MGQ1ZjIxNWJhMjEwODVmZDdiNDYwMWQ1MDA0YmZhOWZlNzk2NzQ5MmIxZDhiYWY5MDRhZmImZT0xNzg5ODUxNjAw/165/333/6614/500173_319335fm32491t9a0ytd66_A.jpg
+2 _FILESIZE 266047
+2 TITL PhotoOfJohn&Wife&Daughter&AnneJane
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _POSITION 704 219 960 475
+2 _PHOTO_RIN MH:P500173
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTFmMjNlZDJmZjIzNjZlZjAxMmViNDhkMTE1OTRkNzdhMWY2MjY5NjE2YTQxOTViMWRiZmEyYTM0NWQ2MDJiNDgmZT0xNzg5ODUxNjAw/165/333/6614/500157_542045bdn661dd99a39a5p_A.pdf
+2 _FILESIZE 197137
+2 TITL 1904MarriageCert
+2 _PHOTO_RIN MH:P500157
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTczMjJlZDNlMjYwNWNjNjkxOWNmMzcwNDFiNjAxYzliNTE2M2JhYWRkNGExN2Y1MDQzNTQ0NDkwNzUzNzFlZWQmZT0xNzg5ODUxNjAw/165/333/6614/500158_3749446d9d75aaanbj9f6y_A.pdf
+2 _FILESIZE 248204
+2 TITL 1911BirthCert
+2 _PHOTO_RIN MH:P500158
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWFjNGQ4ZWJiZWM0NWNmYWE1N2Y5OWNiYzMwM2JmYjQ0MmNhOWYxYTBiYWJkN2MxYjMxYjRiZDA2YzcwZGVhMTAmZT0xNzg5ODUxNjAw/165/333/6614/500159_925113sk9d69xabax6ald2_A.pdf
+2 _FILESIZE 290471
+2 TITL DeathCert1911
+2 _PHOTO_RIN MH:P500159
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWJkZDhkNzA1NGQ1Y2JlYzk1MDRmZjRmZTliZjI3ZmEwMTU3NTYxZmRhZDQxNjRjNmE0N2EyYjg3YzI4NTZjYTMmZT0xNzg5ODUxNjAw/165/333/6614/500160_9387869p4urwoa4s0ab6dd_A.pdf
+2 _FILESIZE 281870
+2 TITL 1881BirthCert
+2 _PHOTO_RIN MH:P500160
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTczYmJmMjI1OTZiMDI4ZTQ3MWU5NDMwMzZiYWQ4MzJmYTE4YTQwYTEzOWE3YmY5NDQwYjA1OGVkYzA2ZWQyY2YmZT0xNzg5ODUxNjAw/165/333/6614/500184_821112eu6f7o992v461ka5_A.jpg
+2 _FILESIZE 97592
+2 TITL JohnMcCluskey
+2 _PHOTO_RIN MH:P500184
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWQ1NmNmZmRhZDFiMzI1NzE3YTlmMDJiY2FkNmRiOTRiYjQ1YzJjNGE1MDhmODA2ZjUyMDRhOWQwNzBkMWZhYWEmZT0xNzg5ODUxNjAw/165/333/6614/500185_9725662169fa459f68w164_A.jpg
+2 _FILESIZE 82839
+2 TITL Screenshot 2026-09-07 205444
+2 _PHOTO_RIN MH:P500185
+0 @I500191@ INDI
+1 _UPD 6 SEP 2026 10:00:29 GMT -0500 
+1 NAME Catherine /McCluskey/
+2 GIVN Catherine
+2 SURN McCluskey
+1 SEX F
+1 BIRT
+2 DATE ABT 1883
+1 DEAT Y
+1 FAMS @F500052@
+1 FAMC @F500042@
+1 RIN MH:I500191
+1 _UID 6A9D800D6FC6B8A336879E6D13DE2EC8
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTkzMzI5OTQzMTI4OTA3Mzk5MTU1MmU4YTIwZmMxMGFlNDUxMzg4MWQyMDRmYjdiMWRiZjUwZDM2NmI1NjhiMmYmZT0xNzg5ODUxNjAw/165/333/6614/500177_3822700f96edv48a664a0x_A.pdf
+2 _FILESIZE 199393
+2 TITL WeddingCert
+2 _PHOTO_RIN MH:P500177
+0 @I500192@ INDI
+1 _UPD 6 SEP 2026 10:00:47 GMT -0500 
+1 NAME Mary Bridget /McCluskey/
+2 GIVN Mary Bridget
+2 SURN McCluskey
+1 SEX F
+1 BIRT
+2 DATE ABT 1888
+1 DEAT Y
+1 FAMS @F500054@
+1 FAMC @F500042@
+1 RIN MH:I500192
+1 _UID 6A9D801EF36335348C6D685E5CD945AD
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTY5NWMwYTNiNzgyMmQ2YjRlYzA4MjZjMWI4NzJiZGY1MWQwOWIzMmJiMzM0M2ZkMmFkMDdiMGQ0ZDBhNWU3MTImZT0xNzg5ODUxNjAw/165/333/6614/500178_807052j086a949fx605fsp_A.pdf
+2 _FILESIZE 199393
+2 TITL WeddingCert
+2 _PHOTO_RIN MH:P500178
+0 @I500193@ INDI
+1 _UPD 7 SEP 2026 14:42:19 GMT -0500 
+1 NAME Anne Jane /McCluskey/
+2 GIVN Anne Jane
+2 SURN McCluskey
+1 SEX F
+1 BIRT
+2 DATE ABT 1891
+1 DEAT Y
+2 DATE 4 AUG 1969
+2 PLAC Leeds, West Yorkshire
+1 BURI
+2 PLAC Cottingley Hall Cemetery, Leeds, West Yorkshire
+1 FAMS @F500046@
+1 FAMS @F500048@
+1 FAMS @F500049@
+1 FAMC @F500042@
+1 RIN MH:I500193
+1 _UID 6A9D80313E4701835EA3BBAC73ADA13E
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWE2NDA2ZTI1MWM0NjZkODhkY2EyODkyZTNjZmQ4NWQ0NDM3MmNjNTBkMmVlY2I2M2E2ZWYzNmE0M2IwNGNlOGEmZT0xNzg5ODUxNjAw/165/333/6614/500181_41386903619fe49ba4cwdb_A.jpg
+2 _FILESIZE 6370
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500180
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500181
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPThiZThjNDMzZTZkODFmMTM2OWM0NGMxOWY1OWFiZjE3M2M0ZTI5YjhkNjYyNTE0MWYxZDFiYjAxMjg3NTg5MWUmZT0xNzg5ODUxNjAw/165/333/6614/500180_013819gwujfvj413a496a9_A.jpg
+2 _FILESIZE 6370
+2 TITL Photo
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _POSITION 0 0 160 160
+2 _PHOTO_RIN MH:P500180
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTZlMzhhNzQzYjg1ZDMyOWVlYWRlZWE1MjFlMmRjMjM1ZTdiNjRjZGZlMzkwYTIwYmE5OWViMmUyMmQ0ZDY4ZWEmZT0xNzg5ODUxNjAw/165/333/6614/500155_905272s968d61aaady6966_A.pdf
+2 _FILESIZE 195443
+2 TITL 1914MarriageCert
+2 _PHOTO_RIN MH:P500155
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTMyYjBkNzZlZWNiYjM4ZTBhODNkNjUzNDE2ZDk3ZGVhYzM1YzEwY2Q2ZTM0MDkxOWY0NDAyMWNhYjVjOTg1MGQmZT0xNzg5ODUxNjAw/165/333/6614/500170_72911576m98x0fan48a6j0_A.jpg
+2 _FILESIZE 1462900
+2 TITL 1921Census
+2 _PHOTO_RIN MH:P500170
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWU4NDgwODdhZTQyZGMxNzMwYTRjYTFjOGVlMjIyODVhZmRiMTgzNTIzNmE0MWIwZmU2NWZlMGM3YzYwODdlNGUmZT0xNzg5ODUxNjAw/165/333/6614/500179_0162506ejy3w2fw641ap89_A.jpg
+2 _FILESIZE 5288
+2 TITL Photo
+2 _PHOTO_RIN MH:P500179
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTJlM2U0YWM1M2M1OWY4OThiM2QxY2NkYTc3NDJiYmU2NjU2MjU0ZWRhYTU4YjFkOWYwMzUzMzk3ZjNjOGQxZGMmZT0xNzg5ODUxNjAw/165/333/6614/500182_729616ga1266pa895f3aff_A.jpg
+2 _FILESIZE 221186
+2 TITL WarPension
+2 _PHOTO_RIN MH:P500182
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTRiYzlkMmM2ODJlODE3MDQxOTNmZDYwZDE2MTA5ZjkyMTE4MDJkZGIyMTQ0ZGI5Mzk1NTZhNTI3MjhmMzBmMjcmZT0xNzg5ODUxNjAw/165/333/6614/500183_06263717k53b0fa6935e6m_A.jpg
+2 _FILESIZE 48208
+2 TITL 1969Death
+2 _PHOTO_RIN MH:P500183
+0 @I500194@ INDI
+1 _UPD 7 SEP 2026 14:14:49 GMT -0500 
+1 NAME Mary /Farrell/
+2 GIVN Mary
+2 SURN Farrell
+2 _MARNM McClusky
+1 SEX F
+1 DEAT Y
+1 FAMS @F500044@
+1 FAMC @F500045@
+1 RIN MH:I500194
+1 _UID 6A9DDBEBC72F62B7AA83B76A4DDE31C3
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWQxNDkxNTgwMTA4ZmJkOTRjOWI5NmQ4Nzc3YzlkMTMxZDE3Mjk4YTI4MjdjZDVjMDUyMGM5NTg2OTUyZjIwNGUmZT0xNzg5ODUxNjAw/165/333/6614/500176_524116d0269tf4926plpaw_A.jpg
+2 _FILESIZE 12843
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500175
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500176
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTBmYjJlYTE0ZDg1OGZiZjkwNDA3ZTYyODI2ZGZkMGY5N2U2NjdlZTU0NjA5ZjI0MDg5NTkyY2ExOTgxMzg0MzcmZT0xNzg5ODUxNjAw/165/333/6614/500175_286648420yocm9f2d0x68a_A.jpg
+2 _FILESIZE 266047
+2 TITL PhotoOfJohn&Wife&Daughter&AnneJane
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _POSITION 950 242 1206 498
+2 _PHOTO_RIN MH:P500175
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWYxZTljZDA0M2JhZmI2ODJlMzkzZDA2MWFlYTUxZWU1YTllMDIyZGFiNjMwMDZlZDE2ZDJlM2NhNmQ2MzA0MDEmZT0xNzg5ODUxNjAw/165/333/6614/500186_0804743fn639f4vza19cu7_A.jpg
+2 _FILESIZE 405525
+2 TITL Wife
+2 _PHOTO_RIN MH:P500186
+0 @I500195@ INDI
+1 _UPD 6 SEP 2026 16:32:45 GMT -0500 
+1 NAME James /Farrell/
+2 GIVN James
+2 SURN Farrell
+1 SEX M
+1 FAMS @F500045@
+1 RIN MH:I500195
+1 _UID 6A9DDBFD6EBCEEB23ACE118252EE6A4C
+0 @I500196@ INDI
+1 _UPD 6 SEP 2026 16:33:00 GMT -0500 
+1 NAME Christina /McCluskey/
+2 GIVN Christina
+2 SURN McCluskey
+1 SEX F
+1 BIRT
+2 DATE ABT 1905
+1 DEAT Y
+1 FAMC @F500044@
+1 RIN MH:I500196
+1 _UID 6A9DDC0C4C4A79E3F287D3A85B7CE72B
+0 @I500197@ INDI
+1 _UPD 6 SEP 2026 16:33:15 GMT -0500 
+1 NAME Catherine /McCluskey/
+2 GIVN Catherine
+2 SURN McCluskey
+1 SEX F
+1 BIRT
+2 DATE ABT 1909
+1 DEAT Y
+1 FAMC @F500044@
+1 RIN MH:I500197
+1 _UID 6A9DDC1B335AC01F52AE01FDF3B9AE04
+0 @I500198@ INDI
+1 _UPD 6 SEP 2026 16:33:27 GMT -0500 
+1 NAME James /McCluskey/
+2 GIVN James
+2 SURN McCluskey
+1 SEX M
+1 BIRT
+2 DATE ABT 1907
+1 DEAT Y
+1 FAMC @F500044@
+1 RIN MH:I500198
+1 _UID 6A9DDC277A5D30160BA1A9E7F973B0E2
+0 @I500199@ INDI
+1 _UPD 6 SEP 2026 16:45:52 GMT -0500 
+1 NAME Mary Josephine /McCluskey/
+2 GIVN Mary Josephine
+2 SURN McCluskey
+1 SEX F
+1 BIRT
+2 DATE 25 MAR 1895
+2 PLAC 28 Ushers Quay, Dublin
+1 FAMC @F500042@
+1 RIN MH:I500199
+1 _UID 6A9DDF10300303315771018BC4ADD939
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTFmNzkyYjI5NjM4NDU1NTU5MmRiNjI1MjNiNWJkOGRhODJlMDc0ODJlYjZmNDc1N2RiNGQ3NjhmYzQ3MjQwYzAmZT0xNzg5ODUxNjAw/165/333/6614/500161_461145e0ys6zed996za22r_A.pdf
+2 _FILESIZE 249310
+2 TITL 1895BirthCert
+2 _PHOTO_RIN MH:P500161
+0 @I500200@ INDI
+1 _UPD 7 SEP 2026 13:17:35 GMT -0500 
+1 NAME Alfred /Hayes/
+2 GIVN Alfred
+2 SURN Hayes
+1 SEX M
+1 DEAT Y
+2 DATE 20 APR 1915
+2 PLAC WW1 England
+2 CAUS Wounds
+1 FAMS @F500046@
+1 FAMC @F500047@
+1 RIN MH:I500200
+1 _UID 6A9EF6700AD3C95507C88388BD496E23
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWZiYjFmZjAwMmVmODhiNjMwYTM3MWExMWI2MDZjMmMxY2ZiMzJiN2U4OTA0ZTE5M2YwYmVmNTA3YWU3ODExOTImZT0xNzg5ODUxNjAw/165/333/6614/500165_491323af84bzq6ekz9x5ff_A.jpg
+2 _FILESIZE 291286
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500164
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500165
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTdjMWE2YTJjNjdhMTUyY2JhYzc2NTg2ZGFmZGI4YzlhOGMwYzI4ZDFmZTBhYTk3OGRmM2E3MjFjYzFmYTA5YjAmZT0xNzg5ODUxNjAw/165/333/6614/500164_327686heemdefdb24f56a9_A.jpg
+2 _FILESIZE 291524
+2 TITL Screenshot 2026-09-07 191720
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _PHOTO_RIN MH:P500164
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWUyNWQwMTY2Y2JjMjMyODI0ODY4YTA0NmQ5OGYyNGQ2ZmZiNTA4N2NmZmYwNGQyOWIxZWViMjc0NGRmYThiNmMmZT0xNzg5ODUxNjAw/165/333/6614/500163_6713254q6bdy9asffesre5_A.pdf
+2 _FILESIZE 195443
+2 TITL 1914MarriageCert
+2 _PHOTO_RIN MH:P500163
+0 @I500201@ INDI
+1 _UPD 7 SEP 2026 12:38:04 GMT -0500 
+1 NAME William /Hayes/
+2 GIVN William
+2 SURN Hayes
+1 SEX M
+1 FAMS @F500047@
+1 RIN MH:I500201
+1 _UID 6A9EF67C135ECEFA242C717926C41689
+0 @I500202@ INDI
+1 _UPD 7 SEP 2026 13:17:52 GMT -0500 
+1 NAME Patrick James /Hayes/
+2 GIVN Patrick James
+2 SURN Hayes
+1 SEX M
+1 BIRT
+2 DATE 8 FEB 1915
+2 PLAC 8 Lower Longford Street
+1 DEAT Y
+1 FAMC @F500046@
+1 RIN MH:I500202
+1 _UID 6A9EFDE93743FC9C2CA32B41FCA2B526
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWIyZWRmNjFiNTVkYmI4MjNlODUwYTQ1NjE1NGY0MjllNTYxZjJkMjg2NWQzOTE5NTYzMzkyMTlhZjJmZWVkZTcmZT0xNzg5ODUxNjAw/165/333/6614/500169_563812f54vdfa9k9684re0_A.jpg
+2 _FILESIZE 291286
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500168
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500169
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWQ3OWE5M2I0NWQ0ZmYzNWJiYjhlYTFlOWEyYjc4NGQwMTY2MmEwYjVjMTc0ZWQxNWE0YjAxNjJjM2I3NmRlY2QmZT0xNzg5ODUxNjAw/165/333/6614/500168_2416014d8f6eao3fda9c0e_A.jpg
+2 _FILESIZE 291524
+2 TITL Screenshot 2026-09-07 191720
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _PHOTO_RIN MH:P500168
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWE4NjUwNjU2NGQ0ZmQ3YzNkYzk2NTI1ZmM1Y2E0ZDNhZTA3ZWIzODRjNzBmNjVmZGUzY2M2MjZjOTFjZjkxYWYmZT0xNzg5ODUxNjAw/165/333/6614/500162_215890a1v9vyeirf66v4e2_A.pdf
+2 _FILESIZE 223553
+2 TITL 1915BirthCert
+2 _PHOTO_RIN MH:P500162
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTFhNWM1YWM2MjQxN2Y0MzZjZDc4NjJkZGE1OTQ4OWRjMmU4Y2YyY2UwNmI2ZjJmZmMwZTIwNjM3ZGMzYzMwMTgmZT0xNzg5ODUxNjAw/165/333/6614/500171_25917020nf990c6abn0r04_A.jpg
+2 _FILESIZE 1462900
+2 TITL 1921Census
+2 _PHOTO_RIN MH:P500171
+0 @I500203@ INDI
+1 _UPD 7 SEP 2026 13:22:59 GMT -0500 
+1 NAME Clifford /Broadbent/
+2 GIVN Clifford
+2 SURN Broadbent
+1 SEX M
+1 BIRT
+2 DATE ABT 1893
+2 PLAC Gildersome, Yorkshire, England
+1 DEAT Y
+1 FAMS @F500048@
+1 RIN MH:I500203
+1 _UID 6A9F010291BE95F029D103E92AC7DE53
+0 @I500204@ INDI
+1 _UPD 7 SEP 2026 13:26:19 GMT -0500 
+1 NAME Sammy /Broadbent/
+2 GIVN Sammy
+2 SURN Broadbent
+1 SEX M
+1 BIRT
+2 DATE MAR 1921
+2 PLAC Dublin, Ireland
+1 DEAT Y
+1 FAMC @F500048@
+1 RIN MH:I500204
+1 _UID 6A9F0126DD17A05A993B806AE916AA6A
+0 @I500205@ INDI
+1 _UPD 7 SEP 2026 13:44:08 GMT -0500 
+1 NAME David /Fulton/
+2 GIVN David
+2 SURN Fulton
+1 SEX M
+1 BIRT
+2 DATE 9 SEP 1916
+1 DEAT Y
+1 FAMC @F500049@
+1 RIN MH:I500205
+1 _UID 6A9F05F8971C6D36718DD1159998A9D5
+0 @I500206@ INDI
+1 _UPD 7 SEP 2026 13:44:18 GMT -0500 
+1 NAME David /Fulton/
+2 GIVN David
+2 SURN Fulton
+1 SEX M
+1 FAMS @F500049@
+1 RIN MH:I500206
+1 _UID 6A9F05F8A054ED37718DD1159998A9D5
+0 @I500207@ INDI
+1 _UPD 7 SEP 2026 13:57:36 GMT -0500 
+1 NAME Mary /Littleton/
+2 GIVN Mary
+2 SURN Littleton
+1 SEX F
+1 DEAT Y
+1 FAMS @F500050@
+1 FAMC @F500051@
+1 RIN MH:I500207
+1 _UID 6A9F0916763EE09A9CFCB0BBC814546F
+0 @I500208@ INDI
+1 _UPD 7 SEP 2026 13:57:36 GMT -0500 
+1 NAME Michael /Littleton/
+2 GIVN Michael
+2 SURN Littleton
+1 SEX M
+1 FAMS @F500051@
+1 RIN MH:I500208
+1 _UID 6A9F0920896E602ABEDDF81198F91BAF
+0 @I500209@ INDI
+1 _UPD 7 SEP 2026 14:17:53 GMT -0500 
+1 NAME John /Dunne/
+2 GIVN John
+2 SURN Dunne
+1 SEX M
+1 DEAT Y
+1 FAMS @F500052@
+1 FAMC @F500053@
+1 RIN MH:I500209
+1 _UID 6A9F0DCDDCB31063F485D0BF221F5B0A
+0 @I500210@ INDI
+1 _UPD 7 SEP 2026 14:17:53 GMT -0500 
+1 NAME John /Dunne/
+2 GIVN John
+2 SURN Dunne
+1 SEX M
+1 FAMS @F500053@
+1 RIN MH:I500210
+1 _UID 6A9F0DE1CB6D6F52864A51E811F05A88
+0 @I500211@ INDI
+1 _UPD 7 SEP 2026 14:22:37 GMT -0500 
+1 NAME John /Callaghan/
+2 GIVN John
+2 SURN Callaghan
+1 SEX M
+1 DEAT Y
+1 FAMS @F500054@
+1 FAMC @F500055@
+1 RIN MH:I500211
+1 _UID 6A9F0EF2B5C73AE8C6BD8ADDEB105FA5
+0 @I500212@ INDI
+1 _UPD 7 SEP 2026 14:22:37 GMT -0500 
+1 NAME Thomas /Callaghan/
+2 GIVN Thomas
+2 SURN Callaghan
+1 SEX M
+1 FAMS @F500055@
+1 RIN MH:I500212
+1 _UID 6A9F0EFD21A49AD95C1195A444BEC935
+0 @I500213@ INDI
+1 _UPD 8 SEP 2026 05:12:34 GMT -0500 
+1 NAME Joseph /Bolton/
+2 GIVN Joseph
+2 SURN Bolton
+2 NSFX Jr.
+1 SEX M
+1 BIRT
+2 DATE 18 APR 1894
+2 PLAC 34 Cook Street, Dublin
+1 DEAT Y
+2 DATE 1897
+1 BURI
+2 PLAC Glasnevin Cemetry
+1 FAMC @F500012@
+1 RIN MH:I500213
+1 _UID 6A9FDF4E994306DB2DE2BBDF04876BF1
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWQ1ZDNlZDIwNGEzMjU2MGMwOWYxNjk4MTgyNDIwZjNjNDU1YTc3N2NjN2ViYzk0NjExM2IyYjYyNTg1MjQwZGUmZT0xNzg5ODUxNjAw/165/333/6614/500190_657808duo9f59daq26f54g_A.jpg
+2 _FILESIZE 62848
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500189
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500190
+1 OBJE
+2 FORM jpg
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWRlMTJmYWExZmIwOGNmYzc3OWQ5YjA0ZmIzODI3YjRlNmMwOWM2OWFiYTBlZjdmZGE3ODQ5ODUwYzE5ZDU3NzEmZT0xNzg5ODUxNjAw/165/333/6614/500189_3220365skwdka9a65wf92f_A.jpg
+2 _FILESIZE 62881
+2 TITL JosephBurial
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _PHOTO_RIN MH:P500189
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTYxNDZjNjJiZjgxYWFiOWNkOWM4NjBhZTZhMGMyNzMyNjU5Y2Y5ZGFiYzZiMzFkYzJiYzhlOGUyZjhkMzE2N2QmZT0xNzg5ODUxNjAw/165/333/6614/500188_3807235946o053d1c29ffa_A.pdf
+2 _FILESIZE 253154
+2 TITL 1894JosephBirthCert
+2 _PHOTO_RIN MH:P500188
+0 @I500214@ INDI
+1 _UPD 8 SEP 2026 05:14:57 GMT -0500 
+1 NAME Mary /Bolton/
+2 GIVN Mary
+2 SURN Bolton
+1 SEX F
+1 BIRT
+2 DATE 9 DEC 1897
+2 PLAC 9 Garden Lane, Dublin
+1 DEAT Y
+2 DATE BEF 1901
+1 FAMC @F500012@
+1 RIN MH:I500214
+1 _UID 6A9FE021928A7CE89C4A056DD163DEB9
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTU4ZmNkZjU5NzVmOTNiYjcwMGVmMmVkYmZiOWRkNDZjMzUzOGIwMDI4Mzg3NGU1Y2QzNmY2Zjg1ZDM1MzEwYzMmZT0xNzg5ODUxNjAw/165/333/6614/500191_15248776z7f09d55qbe2ta_A.pdf
+2 _FILESIZE 231675
+2 TITL 1897MaryBirthCert
+2 _PHOTO_RIN MH:P500191
+0 @I500215@ INDI
+1 _UPD 8 SEP 2026 05:16:22 GMT -0500 
+1 NAME Andrew /Bolton/
+2 GIVN Andrew
+2 SURN Bolton
+1 SEX M
+1 BIRT
+2 DATE ABT 1901
+1 DEAT Y
+2 DATE 24 APR 1918
+2 PLAC (South Dublin Union Workhouse Hospital
+2 CAUS Tuberculosis
+1 FAMC @F500012@
+1 RIN MH:I500215
+1 _UID 6A9FE07626A15F660313B4D28E1A4D00
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTViN2E0MGIxNjc2NDJlNDk5MmI0MWFmMmVhN2I4OTFjYWJiMTNkZTYyMDJhZmY5MjcyOWE5NWJhNDliYTViNjcmZT0xNzg5ODUxNjAw/165/333/6614/500192_914468ay268s5990h65xfe_A.pdf
+2 _FILESIZE 511639
+2 TITL 1911Census
+2 _PHOTO_RIN MH:P500192
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTczODRhNDI0MTJhNGU2YmM2YjFkZWIwZGMwODk2ZGUxNjkwYWQ4OGRmMGUyOThiMzk1NTBlZWUwZGFmNGNlYjEmZT0xNzg5ODUxNjAw/165/333/6614/500193_908666e7596c2nft8ih5a0_A.pdf
+2 _FILESIZE 254462
+2 TITL 1918AndrewDeathCert
+2 _PHOTO_RIN MH:P500193
+0 @I500216@ INDI
+1 _UPD 8 SEP 2026 05:17:44 GMT -0500 
+1 NAME Margaret 'Maggie' /Bolton/
+2 GIVN Margaret 'Maggie'
+2 SURN Bolton
+1 SEX F
+1 BIRT
+2 DATE 26 OCT 1902
+2 PLAC Coombe Hospita
+1 DEAT Y
+1 FAMC @F500012@
+1 RIN MH:I500216
+1 _UID 6A9FE0C7E94389AC4A0577965F3FA462
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTg3MTE2MjhhYTU2NDkwMmZmYzhhZjFhMjI1MTIxN2VlOGQ1N2U0ZjgzNDIzMjA0ZmM0MDIyMjMzZDkyZGUxYTQmZT0xNzg5ODUxNjAw/165/333/6614/500195_316858a0o355afyedx069s_A.pdf
+2 _FILESIZE 181853
+2 TITL 1902MargaretMaggieBirthCert
+2 _PHOTO_RIN MH:P500195
+1 OBJE
+2 FORM pdf
+2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTBjZmIwZjNhYWJjMmQ4NTJiMTgzY2E5MmQ1MGU3ZjVkODkyYWM3MmEzNDg1YTc4ZDdiZmQyOGYwNDllZGVhZGQmZT0xNzg5ODUxNjAw/165/333/6614/500196_237819uae2506fd95n4o3d_A.pdf
+2 _FILESIZE 511639
+2 TITL 1911Census
+2 _PHOTO_RIN MH:P500196
+0 @F500001@ FAM
+1 _UPD 19 MAY 2024 00:31:21 GMT -0500
+1 HUSB @I500003@
+1 WIFE @I500002@
+1 CHIL @I500001@
+1 CHIL @I500008@
+1 RIN MH:F500001
+1 _UID 66493A4220F5036E0A74345731E86E5D
+0 @F500002@ FAM
+1 _UPD 19 MAY 2024 00:31:39 GMT -0500
+1 HUSB @I500005@
+1 WIFE @I500004@
+1 CHIL @I500002@
+1 CHIL @I500009@
+1 CHIL @I500010@
+1 CHIL @I500011@
+1 RIN MH:F500002
+1 _UID 66493A56A3736F8E9F669E27D017D7F2
+1 MARR
+2 DATE ABT 1965
+2 PLAC Dublin
+0 @F500004@ FAM
+1 _UPD 27 JUL 2026 14:16:57 GMT -0500
+1 HUSB @I500010@
+1 WIFE @I500015@
+1 CHIL @I500017@
+1 RIN MH:F500004
+1 _UID 6A675A4978712F60595BEF71F31C8DED
+1 MARR
+0 @F500005@ FAM
+1 _UPD 27 JUL 2026 14:17:07 GMT -0500
+1 HUSB @I500016@
+1 WIFE @I500009@
+1 CHIL @I500018@
+1 RIN MH:F500005
+1 _UID 6A675A5362141F784A21D22A2E37F493
+1 MARR
+2 PLAC Dublin
+0 @F500006@ FAM
+1 _UPD 6 SEP 2026 07:53:11 GMT -0500
+1 HUSB @I500020@
+1 WIFE @I500179@
+1 CHIL @I500005@
+1 CHIL @I500022@
+1 RIN MH:F500006
+1 _UID 6A675A84BF2A15D300E00DDEE4D1EE2B
+1 MARR
+2 DATE 17 SEP 1934
+2 PLAC Roman Catholic Church of Nth. Gloucester St.
+0 @F500012@ FAM
+1 _UPD 27 JUL 2026 16:21:58 GMT -0500
+1 HUSB @I500045@
+1 WIFE @I500044@
+1 CHIL @I500213@
+1 CHIL @I500020@
+1 CHIL @I500214@
+1 CHIL @I500215@
+1 CHIL @I500216@
+1 RIN MH:F500012
+1 _UID 6A67778EA76604B8E2A1FA2E7DA8AE8C
+0 @F500016@ FAM
+1 _UPD 31 JUL 2026 14:33:20 GMT -0500
+1 HUSB @I500052@
+1 WIFE @I500106@
+1 CHIL @I500111@
+1 CHIL @I500108@
+1 CHIL @I500107@
+1 CHIL @I500110@
+1 CHIL @I500045@
+1 CHIL @I500105@
+1 CHIL @I500109@
+1 CHIL @I500112@
+1 RIN MH:F500016
+1 _UID 6A679B8E88CC0F56E102FAE4D64F1C17
+0 @F500017@ FAM
+1 _UPD 27 JUL 2026 19:05:09 GMT -0500
+1 HUSB @I500053@
+1 WIFE @I500054@
+1 CHIL @I500044@
+1 RIN MH:F500017
+1 _UID 6A679BD0CAF4A5705C89A23A2B5BF4CD
+0 @F500020@ FAM
+1 _UPD 28 JUL 2026 13:12:22 GMT -0500
+1 HUSB @I500073@
+1 WIFE @I500064@
+1 CHIL @I500004@
+1 RIN MH:F500020
+1 _UID 6A688296C78B94C0FAA755C987F41A48
+1 MARR
+2 DATE 24 MAY 1921
+2 PLAC Roman Catholic Church of Athenry
+0 @F500021@ FAM
+1 _UPD 28 JUL 2026 11:52:46 GMT -0500
+1 HUSB @I500065@
+1 WIFE @I500066@
+1 CHIL @I500067@
+1 CHIL @I500068@
+1 CHIL @I500069@
+1 CHIL @I500070@
+1 CHIL @I500071@
+1 CHIL @I500072@
+1 CHIL @I500064@
+1 RIN MH:F500021
+1 _UID 6A6889FE0B3EE708334B38DA5B3EB476
+0 @F500023@ FAM
+1 _UPD 28 JUL 2026 14:15:44 GMT -0500
+1 HUSB @I500020@
+1 WIFE @I500076@
+1 CHIL @I500081@
+1 CHIL @I500080@
+1 RIN MH:F500023
+1 _UID 6A68AB808001F45FD8403F2ADC08B2EB
+1 MARR
+2 DATE 11 DEC 1917
+2 PLAC Dublin South
+0 @F500024@ FAM
+1 _UPD 28 JUL 2026 14:25:35 GMT -0500
+1 HUSB @I500077@
+1 WIFE @I500078@
+1 CHIL @I500076@
+1 CHIL @I500079@
+1 RIN MH:F500024
+1 _UID 6A68ABD51CE9ECC0FCE6640BCE179322
+0 @F500035@ FAM
+1 _UPD 3 AUG 2026 09:16:56 GMT -0500
+1 HUSB @I500123@
+1 WIFE @I500124@
+1 CHIL @I500125@
+1 CHIL @I500126@
+1 CHIL @I500065@
+1 CHIL @I500127@
+1 CHIL @I500128@
+1 RIN MH:F500035
+1 _UID 6A70A2D7D9B925BC4BFA8336E1BE3BA2
+0 @F500038@ FAM
+1 _UPD 3 AUG 2026 09:26:28 GMT -0500
+1 HUSB @I500128@
+1 WIFE @I500150@
+1 CHIL @I500169@
+1 CHIL @I500172@
+1 CHIL @I500176@
+1 CHIL @I500171@
+1 CHIL @I500164@
+1 CHIL @I500168@
+1 CHIL @I500173@
+1 CHIL @I500174@
+1 CHIL @I500170@
+1 CHIL @I500166@
+1 CHIL @I500167@
+1 RIN MH:F500038
+1 _UID 6A70A514EEB8930C03B6C211F599C665
+1 MARR
+2 DATE 22 NOV 1887
+2 PLAC Ballinasloe Galway
+2 NOTE think maiden name was also WardName:Margaret WardDate of Registration:Oct-Nov-Dec 1887Registration district:BallinasloeVolume:4Page Number:13FHL Film Number:101255Records on Page:NameMargaret WardMart
+3 CONC in WardFrom Roots.ieChurch Marriage RecordDate of Marriage:22-Nov-1887Parish / District:BALLINASLOECounty:Co. GalwayHusbandWifeName:MartinWardMargaretWardAddress:BallinasloeBallinasloeDenomination:Occ
+3 CONC upation:Age:Status:Husband's FatherWife's FatherName:PatrickWardJohnWardAddress:Mt BellewBallinasloeDenomination:Occupation:Husband's MotherWife's MotherName:JoanneWardMaryWardAddress:Denomination:Occ
+3 CONC upation:Witness 1Witness 2Name:CharlesWardMargaretWard
+0 @F500040@ FAM
+1 _UPD 3 AUG 2026 15:24:20 GMT -0500
+1 HUSB @I500177@
+1 WIFE @I500178@
+1 CHIL @I500073@
+1 RIN MH:F500040
+1 _UID 6A70F8EB5B26E8B9F19B2BB1862CB372
+0 @F500041@ FAM
+1 _UPD 6 SEP 2026 08:06:00 GMT -0500
+1 HUSB @I500180@
+1 WIFE @I500183@
+1 CHIL @I500179@
+1 CHIL @I500181@
+1 CHIL @I500184@
+1 CHIL @I500182@
+1 CHIL @I500185@
+1 RIN MH:F500041
+1 _UID 6A9D628400DC69CA68FE0BDBD1422FE2
+1 MARR
+2 DATE 26 JAN 1908
+2 PLAC Roman Catholic Church of SS. Michael & John
+0 @F500042@ FAM
+1 _UPD 6 SEP 2026 09:22:14 GMT -0500
+1 HUSB @I500186@
+1 WIFE @I500188@
+1 CHIL @I500189@
+1 CHIL @I500190@
+1 CHIL @I500191@
+1 CHIL @I500180@
+1 CHIL @I500192@
+1 CHIL @I500193@
+1 CHIL @I500199@
+1 RIN MH:F500042
+1 _UID 6A9D6F316B0B6E8C54E268E861B1C9FF
+0 @F500043@ FAM
+1 _UPD 6 SEP 2026 08:48:58 GMT -0500
+1 HUSB @I500187@
+1 CHIL @I500183@
+1 RIN MH:F500043
+1 _UID 6A9D6F4AC06F3BC68DF1BEB675D46B99
+0 @F500044@ FAM
+1 _UPD 6 SEP 2026 16:32:27 GMT -0500
+1 HUSB @I500190@
+1 WIFE @I500194@
+1 CHIL @I500196@
+1 CHIL @I500198@
+1 CHIL @I500197@
+1 RIN MH:F500044
+1 _UID 6A9DDBEBD1B192B8AA83B76A4DDE31C3
+1 MARR
+2 DATE 9 OCT 1904
+2 PLAC SS. Michael & John, Dublin
+0 @F500045@ FAM
+1 _UPD 6 SEP 2026 16:32:45 GMT -0500
+1 HUSB @I500195@
+1 CHIL @I500194@
+1 RIN MH:F500045
+1 _UID 6A9DDBFD7A064EB33ACE118252EE6A4C
+0 @F500046@ FAM
+1 _UPD 7 SEP 2026 12:37:52 GMT -0500
+1 HUSB @I500200@
+1 WIFE @I500193@
+1 CHIL @I500202@
+1 RIN MH:F500046
+1 _UID 6A9EF6701723C95607C88388BD496E23
+1 MARR
+2 DATE 1 NOV 1914
+2 PLAC St. Nicholas of Myra RC Church, Francis Street, Dublin
+0 @F500047@ FAM
+1 _UPD 7 SEP 2026 12:38:04 GMT -0500
+1 HUSB @I500201@
+1 CHIL @I500200@
+1 RIN MH:F500047
+1 _UID 6A9EF67C20049EFB242C717926C41689
+0 @F500048@ FAM
+1 _UPD 7 SEP 2026 13:22:58 GMT -0500
+1 HUSB @I500203@
+1 WIFE @I500193@
+1 CHIL @I500204@
+1 RIN MH:F500048
+1 _UID 6A9F01029E3CA5F129D103E92AC7DE53
+1 MARR
+0 @F500049@ FAM
+1 _UPD 7 SEP 2026 13:44:08 GMT -0500
+1 HUSB @I500206@
+1 WIFE @I500193@
+1 CHIL @I500205@
+1 RIN MH:F500049
+1 _UID 6A9F05F8A6426D38718DD1159998A9D5
+0 @F500050@ FAM
+1 _UPD 7 SEP 2026 13:57:26 GMT -0500
+1 HUSB @I500189@
+1 WIFE @I500207@
+1 RIN MH:F500050
+1 _UID 6A9F09168191209B9CFCB0BBC814546F
+1 MARR
+2 DATE 27 AUG 1907
+2 PLAC Catholic Chapel of St. Andrew, District of South City, Union of South Dublin
+0 @F500051@ FAM
+1 _UPD 7 SEP 2026 13:57:36 GMT -0500
+1 HUSB @I500208@
+1 CHIL @I500207@
+1 RIN MH:F500051
+1 _UID 6A9F09209679602BBEDDF81198F91BAF
+0 @F500052@ FAM
+1 _UPD 7 SEP 2026 14:17:33 GMT -0500
+1 HUSB @I500209@
+1 WIFE @I500191@
+1 RIN MH:F500052
+1 _UID 6A9F0DCDE611F064F485D0BF221F5B0A
+1 MARR
+2 DATE 16 APR 1902
+2 PLAC Roman Catholic Church of St. Audoen, City District No. 2, Union of South Dublin
+0 @F500053@ FAM
+1 _UPD 7 SEP 2026 14:17:53 GMT -0500
+1 HUSB @I500210@
+1 CHIL @I500209@
+1 RIN MH:F500053
+1 _UID 6A9F0DE1D5F1CF53864A51E811F05A88
+0 @F500054@ FAM
+1 _UPD 7 SEP 2026 14:22:26 GMT -0500
+1 HUSB @I500211@
+1 WIFE @I500192@
+1 RIN MH:F500054
+1 _UID 6A9F0EF2C2453AE9C6BD8ADDEB105FA5
+1 MARR
+2 DATE 13 OCT 1907
+2 PLAC Roman Catholic Church of SS. Michael & John, District of South City, Union of South Dublin
+0 @F500055@ FAM
+1 _UPD 7 SEP 2026 14:22:37 GMT -0500
+1 HUSB @I500212@
+1 CHIL @I500211@
+1 RIN MH:F500055
+1 _UID 6A9F0EFD2D35DADA5C1195A444BEC935
+0 @S1@ SOUR
+1 _UPD 27 JUL 2026 14:51:23 GMT -0500 
+1 TITL Ireland Births, 1864-1958
+1 PUBL MyHeritage
+1 _TYPE Collection
+1 _MEDI 20865
+1 RIN MH:S1
+0 @S2@ SOUR
+1 _UPD 27 JUL 2026 15:34:58 GMT -0500 
+1 TITL FamilySearch Family Tree
+1 PUBL MyHeritage
+1 TEXT The FamilySearch Family Tree is published by MyHeritage under license from FamilySearch International, the largest genealogy organization in the world. FamilySearch is a nonprofit organization sponsor
+2 CONC ed by The Church of Jesus Christ of Latter-day Saints (Mormon Church).
+1 _TYPE Collection
+1 _MEDI 40001
+1 RIN MH:S2
+0 @S3@ SOUR
+1 _UPD 27 JUL 2026 16:10:02 GMT -0500 
+1 AUTH Billy Jon Van Sickle
+1 TITL Van Sickle
+1 TEXT <p>MyHeritage family tree</p><p>Family site: Van Sickle</p>Family tree: 865498331-3
+1 _TYPE Smart Matching
+1 _MEDI 865498331-3
+1 RIN MH:S3
+0 @S4@ SOUR
+1 _UPD 27 JUL 2026 16:22:41 GMT -0500 
+1 TITL 1901 Ireland Census
+1 PUBL MyHeritage
+1 TEXT Other forms used in the 1901 census were: “Form N” (Enumerator’s Abstract for a Townland or Street), “Form B1” (House and Building Return, which recorded details on the house and general inf
+2 CONC ormation on the families residing therein), and “Form B2” (Return of Out-Offices and Farm-Steadings, which listed, with some exceptions, all out-offices intended for domestic or agricultural purpo
+2 CONC ses).Though national censuses were taken every decade from 1821 to 1911, the 1901 census is the earliest complete census still in existence; most of the previous censuses were destroyed.Images and ind
+2 CONC ex to this census were created by and obtained from the National Archives of Ireland.
+1 _TYPE Collection
+1 _MEDI 10199
+1 RIN MH:S4
+0 @S5@ SOUR
+1 _UPD 27 JUL 2026 17:07:06 GMT -0500 
+1 TITL 1881 England &amp; Wales Census
+1 PUBL MyHeritage
+1 TEXT <b>What can you find in the  census?</b>Census returns can help you determine who your ancestors were, and can also tell you:- Where your ancestors were living- Who they were living with- What their o
+2 CONC ccupations were- If they had any servants- Who their neighbours were- If they had any brothers and sisters- What their ages were at the time of the census- If they had any disabilities.As well as givi
+2 CONC ng you the above information, the fact that census returns are taken every ten years also allows you to track the movements of your ancestors through time as they perhaps move house, get married, have
+2 CONC  children or even change occupations.The fields which have been transcribed for the  census are:- First name- Middle name- Last name- Sex- Birth place- Age- Place of residence- County- Relationship to
+2 CONC  head of household<b>Why this collection is so valuable</b>Census records are valuable since they can tell you where a person lived at a certain place and time. Censuses were conducted by the federal 
+2 CONC government and will offer a variety of information, depending on year. Census records can answer questions like where your ancestors were living at the time the census was taken, who they were living 
+2 CONC with, what their occupations were, who their neighbors were, if they had any brothers and sisters, what their ages were at the time of the census and if they had any disabilities.<b>Searching the cens
+2 CONC us</b>The golden rule of family history is to check the original historical record, or 'primary source', wherever possible. We have provided clear images of the original census enumeration books for y
+2 CONC ou to view once you've found the right family in the indexes. When using census returns you should first search the transcriptions to help locate your ancestor in the census, and then view the origina
+2 CONC l images to validate your findings. It will also help you see the household in the context of surrounding households. This is particularly important as transcribing an entire census is a huge and diff
+2 CONC icult task, and whilst we have used the expertise of our transcribers and the experience of key representatives from the genealogy community to help us translate the records, it is inevitable that the
+2 CONC re will be some errors.<b>Next steps</b>With the information you gain from these census records, you will have the information you need to search for vital records in the locality where you found your
+2 CONC  ancestor. Also, the fact that census returns are taken every ten years also allows you to track the movements of our ancestors through time as they perhaps move house, get married, have children or e
+2 CONC ven change occupations.
+1 _TYPE Collection
+1 _MEDI 10154
+1 RIN MH:S5
+0 @S6@ SOUR
+1 _UPD 27 JUL 2026 17:07:27 GMT -0500 
+1 TITL Ireland Deaths, 1864-1958
+1 PUBL MyHeritage
+1 _TYPE Collection
+1 _MEDI 20866
+1 RIN MH:S6
+0 @S7@ SOUR
+1 _UPD 27 JUL 2026 19:26:48 GMT -0500 
+1 TITL 1911 Ireland Census
+1 PUBL MyHeritage
+1 TEXT Other forms used in the 1911 census were: “Form N” (Enumerator’s Abstract for a Townland or Street), “Form B1” (House and Building Return, which recorded details on the house and general inf
+2 CONC ormation on the families residing therein), and “Form B2” (Return of Out-Offices and Farm-Steadings, which listed, with some exceptions, all out-offices intended for domestic or agricultural purpo
+2 CONC ses).Images and index to this census were created by and obtained from the National Archives of Ireland.
+1 _TYPE Collection
+1 _MEDI 10198
+1 RIN MH:S7
+0 @S8@ SOUR
+1 _UPD 28 JUL 2026 16:54:18 GMT -0500 
+1 TITL Ellis Island and Other New York Passenger Lists, 1820-1957
+1 PUBL MyHeritage
+1 TEXT Early passenger lists were single page manifests and recorded minimal information about passengers. Over time forms were standardized and additional questions were added. Depending on the year, inform
+2 CONC ation recorded about a passenger may include name, age, gender, occupation, destination, and information regarding place of origin—e.g. native country, citizenship status, race, nationality, birthpl
+2 CONC ace, or last residence. By 1907 passenger manifests contained 29 columns and were two-pages wide with left and right sides. Many of the passenger manifests span two pages, and a common omission for ge
+2 CONC nealogists has been to locate the first page and miss the existence of the second. MyHeritage has solved this problem for the first time by stitching the double pages into single document images, ensu
+2 CONC ring that important information will not be missed. Two questions that were included on the manifest beginning in 1907 were: 1) name and address of nearest friend or relative in country whence the ali
+2 CONC en came; and 2) whether going to join a relative or friend, and if so, what relative or friend, and his name complete address. MyHeritage has indexed the names and relationships of the individuals ref
+2 CONC erenced in these two additional questions, making MyHeritage the only place where these additional names are searchable.Update June 2018: Added records primarily from crew lists, lists of detained ali
+2 CONC en passengers, U.S. citizen lists, and lists of aliens held for special inquiry.Records in this collection come from National Archives (NARA) microfilm collections M237 (<i>Passenger Lists of Vessels 
+2 CONC Arriving at New York, New York, 1820-1897</i>) and T715 (<i>Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957</i>).
+1 _TYPE Collection
+1 _MEDI 10512
+1 RIN MH:S8
+0 @S9@ SOUR
+1 _UPD 28 JUL 2026 17:18:49 GMT -0500 
+1 TITL United States, Border Crossings from Canada, 1895-1956
+1 PUBL MyHeritage
+1 TEXT The ports of entry included in this collection, by US state, are as follows: <ul><li> Idaho: Eastport (1924-1956); Porthill (1923-1952)</li><li> Maine: Vanceboro (1906-1952); Calais (1906-1952); Jackm
+2 CONC an (1909-1953)</li><li> Michigan: Detroit (1906-1954)</li><li> Minnesota: Noyes (1912-1956); Baudette, Warroad, and International Falls (1910-1923)</li><li> Montana: Havre, Loring, Opheim, Raymond, Tu
+2 CONC rner, Westby, and White Tail (1924-1956); Chief Mountain, Cut Bank, Del Bonita, Gateway, Great Falls, and Roosville (1923-1956); Babb (1928-1956)</li><li> New York: Buffalo, Lewiston, Niagara Falls, a
+2 CONC nd Rochester (1902-1954); Alexandria Bay, Cape Vincent, Champlain, Clayton, Fort Covington, Mooers, Rouses Point, Thousand Island Bridge, and Trout River (1929-1956); Hogansburg, Malone, Morristown, N
+2 CONC yando, Odgensburg, Rooseveltown, and Waddington (1929-1956)</li><li> North Dakota: Dunseith, Neche, Pembina, Saint John, and Walhalla (1912-1956); Ambrose, Antler, Carbury, Fortuna, Noonan, Northgate,
+2 CONC  Portal, Sherwood, and Westhope (1921-1952); Northgate and Saint John (1910-1921)</li><li> Vermont: St. Albans (1895-1952); Small ports in Vermont (1895-1924)</li></ul>Comprised of the following NARA 
+2 CONC publications by order of frequency: M1461, M1480, M1478, M1463, A3460, A3448, M2071, M1462, A3447, M2042, A3491, A3386, M1481, M1482, M2046, A3462, A3560, A3479, A3490.
+1 _TYPE Collection
+1 _MEDI 10942
+1 RIN MH:S9
+0 @S10@ SOUR
+1 _UPD 28 JUL 2026 18:00:09 GMT -0500 
+1 TITL United States, Flexoline Alien Registrations 1940-1954
+1 PUBL MyHeritage
+1 TEXT The collection also includes a significant number of earlier records with details dating back to as far as 1896, believed to have been catalogued in the same database
+1 _TYPE Collection
+1 _MEDI 20924
+1 RIN MH:S10
+0 @S11@ SOUR
+1 _UPD 28 JUL 2026 18:33:00 GMT -0500 
+1 TITL United Kingdom and Ireland, Outgoing Passenger Lists, 1890-1960
+1 PUBL MyHeritage
+1 TEXT The index of this collection was produced by MyHeritage from scanned images of the original documents. © Crown Copyright Images reproduced by courtesy of The National Archives, London, England.
+1 _TYPE Collection
+1 _MEDI 20989
+1 RIN MH:S11
+0 @S12@ SOUR
+1 _UPD 28 JUL 2026 18:42:19 GMT -0500 
+1 TITL Newspaper and Funeral Home Obituaries
+1 PUBL MyHeritage
+1 _TYPE Collection
+1 _MEDI 10146
+1 RIN MH:S12
+0 @S13@ SOUR
+1 _UPD 28 JUL 2026 18:43:01 GMT -0500 
+1 TITL United States Obituary Index from Online Sources
+1 PUBL MyHeritage
+1 TEXT The records in this collection were extracted using machine learning technology and may contain mistakes due to the automatic extraction. Users are encouraged to fix such mistakes using the “Suggest
+2 CONC  an alternative” feature that is found on every record page.
+1 _TYPE Collection
+1 _MEDI 12101
+1 RIN MH:S13
+0 @S14@ SOUR
+1 _UPD 28 JUL 2026 18:43:32 GMT -0500 
+1 TITL U.S. Social Security Death Index (SSDI)
+1 PUBL MyHeritage
+1 TEXT Begun in 1935 by the Social Security Act signed into law by FDR, more than thirty million Americans were registered for the economic security sanctions by 1937. From 1937 to 1940, payments were made i
+2 CONC n one-lump sums amounts with the first amount being seventeen cents. Following amendments in 1939, the payments turned into monthly benefits and increased. Following further amendments in 1950, cost-o
+2 CONC f-living increases were awarded to those who were receiving benefits. From 1950 to the present, benefits have increased yearly in response to inflation concerning the costs of living.
+1 _TYPE Collection
+1 _MEDI 10002
+1 RIN MH:S14
+0 @S15@ SOUR
+1 _UPD 28 JUL 2026 18:46:20 GMT -0500 
+1 TITL United States, Deceased Veteran Benefit Claims
+1 PUBL MyHeritage
+1 TEXT This collection includes all branches of the US military, including those that no longer exist, as well as certain government agencies. It also includes a small number of individuals without an Americ
+2 CONC an Citizenship, particularly those who served in the Philippine Commonwealth Army, Philippine Scouts, and Guerrillas before and during the Second World War.This collection has been obtained through th
+2 CONC e outstanding work and efforts of Reclaim the Records.
+1 _TYPE Collection
+1 _MEDI 20906
+1 RIN MH:S15
+0 @S16@ SOUR
+1 _UPD 28 JUL 2026 18:46:41 GMT -0500 
+1 TITL United States, World War II Draft Registrations, 1940-1947
+1 PUBL MyHeritage
+1 TEXT The records were extracted from the scanned registration cards using advanced AI technology developed by MyHeritage. Due to the use of artificial intelligence in extracting this information, some reco
+2 CONC rds may contain inaccuracies. It is recommended to review the registration card images to verify the details.
+1 _TYPE Collection
+1 _MEDI 20912
+1 RIN MH:S16
+0 @S17@ SOUR
+1 _UPD 28 JUL 2026 18:47:17 GMT -0500 
+1 TITL U.S. Social Security Applications and Claims, 1936-2007
+1 PUBL MyHeritage
+1 TEXT <p>Starting in 1936 the Social Security Administration started to maintain records of each individual who applied for a Social Security Number. The earliest form of these records were known as the “
+2 CONC Master Files of the Social Security (SSN) Holders and SSN Applications”. This was more commonly known simply as the “Enumeration System”. In the 1970s legacy records from this system were migrat
+2 CONC ed and new records were maintained electronically in the Numerical Identification System (NUMIDENT).</p><p>This collection contains records of individuals with a verified death between 1936 and 2007 o
+2 CONC r who would have been over 110 years old by December 31, 2007. There are three types of entries in NUMIDENT: applications (SS-5), claims, and death entries. The records of applications and claims are 
+2 CONC presented here in this collection. The death entries are available on MyHeritage as the <a href="https://www.myheritage.com/research/collection-10002/">U.S. Social Security Death Index (SSDI).</a></p>
+2 CONC <p>The application (SS-5) records contain information extracted from the SS-5 form “Application for a Social Security Card” or “Application for Social Security Account Number.” Information in 
+2 CONC the NUMIDENT application entries include applicant’s full name, father’s name, mother’s maiden name, sex, race/ethnic description, place of birth, and other information about the application and
+2 CONC  subsequent changes to the applicant’s record - such as name changes especially common (and even required) when women marry. For about 43 percent of social security numbers, there are multiple appli
+2 CONC cation records.</p><p>The application records preserved by the Social Security Administration do not include records of all social security applications between 1936 and 2007. Information of applicati
+2 CONC ons prior to 1973 may be incomplete. There may not be a record for an individual in both the application records and the death entries and there are nearly 6 million social security numbers in the app
+2 CONC lication records that do not appear in the death entries. And conversely, there are records in the death entries that have no corresponding extant record in the application entries.</p><p>The claim re
+2 CONC cords include information on the type of claim, the claimant’s full name, date of birth, gender, and for about half of the claim records the US state or country of birth. For a small number of socia
+2 CONC l security numbers there are multiple claim records.</p><p>Records in this collection may have place names that were abbreviated or personal names that were truncated in the data supplied by the Socia
+2 CONC l Security Administration. MyHeritage has corrected and expanded many of these when possible but other values remain abbreviated or truncated.</p>
+1 _TYPE Collection
+1 _MEDI 10863
+1 RIN MH:S17
+0 @S18@ SOUR
+1 _UPD 28 JUL 2026 19:00:13 GMT -0500 
+1 TITL 1940 United States Federal Census
+1 PUBL MyHeritage
+1 TEXT We undertook the arduous task of deciphering the handwritten pages of the 1940 Census to create a searchable index for the census. This was accomplished gradually, state by state, as we covered more a
+2 CONC nd more of the census.As required by the US Constitution, the census is a federal mandate to count every resident of the United States of America every 10 years. Census data is released to the public 
+2 CONC 72 years after it was taken.Federal census takers were asked to record information about every person who was in each household on the census day. A census taker might have visited a house on a later 
+2 CONC date, but the information he collected was supposed to be about the people who were in the house on the census day. The basic census enumeration unit was the county. Each county was divided into enume
+2 CONC ration districts, one for each enumerator. The completed forms were sent to the Commerce Department's Census Office in Washington, D.C.Federal censuses are usually reliable, depending on the knowledge
+2 CONC  of the informant and the care of the census enumerator. Information may have been given to a census taker by any member of the family or by a neighbor. Some information may have been incorrect or del
+2 CONC iberately falsified.
+1 _TYPE Collection
+1 _MEDI 10053
+1 RIN MH:S18
+0 @S19@ SOUR
+1 _UPD 28 JUL 2026 20:08:46 GMT -0500 
+1 TITL Ireland, Names &amp; Stories in Newspapers from OldNews.com
+1 PUBL MyHeritage
+1 TEXT Because the extraction of the information was done using AI, you may encounter mistakes in some of the records, such as incorrect relationships. It is therefore recommended to review the full articles
+2 CONC  in the scanned newspaper pages and verify the information.The scanned newspaper pages can be viewed on <a href="https://www.oldnews.com/en">OldNews.com</a>.
+1 _TYPE Collection
+1 _MEDI 12032
+1 RIN MH:S19
+0 @S20@ SOUR
+1 _UPD 29 JUL 2026 14:43:49 GMT -0500 
+1 TITL Ireland, Catholic Parish Births and Baptisms, 1740-1905
+1 PUBL MyHeritage
+1 TEXT This collection is published under the National Library of Ireland’s Terms of Use of material made available on registers.nli.ie. The index of this collection was produced from scanned images of the
+2 CONC  original documents by MyHeritage.
+1 _TYPE Collection
+1 _MEDI 20971
+1 RIN MH:S20
+0 @S500001@ SOUR
+1 _UPD 3 AUG 2026 08:51:31 GMT -0500 
+1 AUTH Uli
+1 TITL Eberle/Dunne family tree
+1 TEXT <p>MyHeritage family tree</p><p>Family site: Eberle/Dunne family tree</p>Family tree: 1088164241-1
+1 _TYPE Discovery
+1 _MEDI 1088164241-1
+0 @S500002@ SOUR
+1 _UPD 3 AUG 2026 09:16:55 GMT -0500 
+1 AUTH Eddie Sweeney
+1 TITL Sweeney Web Site
+1 TEXT <p>MyHeritage family tree</p><p>Family site: Sweeney Web Site</p>Family tree: 1703225224-1
+1 _TYPE Discovery
+1 _MEDI 1703225224-1
+0 @S500003@ SOUR
+1 _UPD 3 AUG 2026 09:18:16 GMT -0500 
+1 AUTH Denise Molling
+1 TITL Molling/McGrath/Dunne/McDonald/Nelson/Tranter Web Site
+1 TEXT <p>MyHeritage family tree</p><p>Family site: Molling/McGrath/Dunne/McDonald/Nelson/Tranter Web Site</p>Family tree: 169772492-1
+1 _TYPE Discovery
+1 _MEDI 169772492-1
+0 @S500004@ SOUR
+1 _UPD 3 AUG 2026 09:19:45 GMT -0500 
+1 AUTH Anne Rabheru
+1 TITL Rabheru Web Site
+1 TEXT <p>MyHeritage family tree</p><p>Family site: Rabheru Web Site</p>Family tree: 1704508924-1
+1 _TYPE Discovery
+1 _MEDI 1704508924-1
+0 @S500005@ SOUR
+1 _UPD 3 AUG 2026 09:26:29 GMT -0500 
+1 AUTH Michael Anthony Ward
+1 TITL Ward Family Site
+1 TEXT <p>MyHeritage family tree</p><p>Family site: Ward Family Site</p>Family tree: 1544995822-1
+1 _TYPE Discovery
+1 _MEDI 1544995822-1
+0 TRLR
