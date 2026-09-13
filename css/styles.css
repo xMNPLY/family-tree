@@ -1,0 +1,48 @@
+/* Container & Dark Canvas */
+body, html, #tree {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #7c8a25; /* Standard light theme background */
+}
+
+/* Dark Mode Card Elevation */
+.bft-node {
+  filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.35));
+  transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+.bft-node:hover {
+  filter: drop-shadow(0 8px 20px rgba(0, 0, 0, 0.55));
+}
+
+/* Subtle Dark Connectors */
+.bft-link {
+  stroke: #334155 !important;
+  stroke-width: 2px !important;
+}
+
+/* Dark Search Bar Override */
+.bft-search {
+  background-color: #1e293b !important;
+  border-radius: 8px !important;
+  border: 1px solid #334155 !important;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3) !important;
+}
+
+.bft-search input {
+  font-family: inherit !important;
+  color: #f8fafc !important;
+  background-color: #1e293b !important;
+}
+
+.bft-search-item {
+  background-color: #1e293b !important;
+  color: #e2e8f0 !important;
+  border-bottom: 1px solid #334155 !important;
+}
+
+.bft-search-item:hover {
+  background-color: #334155 !important;
+}
